@@ -1,9 +1,15 @@
+@font-face {
+    font-family: "fe-chiaro";
+    src: url(font.otf);
+}
+
 *{
     text-align: center;
-   line-height: 40px;
-   font-size: 25px;
+    line-height: 40px;
+    font-size: 25px;
+    font-family: "fe-chiaro", sans-serif;
  }
- 
+
 .new-text-box{
     position: relative;
     width: 600px;
