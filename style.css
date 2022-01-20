@@ -1,0 +1,72 @@
+.new-text-box{
+    position: relative;
+    width: 600px;
+    height: 120px;
+    margin-top: 30px;
+  }
+  
+  .new-text-box-dialogue{
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    width: 560px;
+    text-align: left;
+    
+  }
+  
+  .new-text-box:after{
+    position: absolute;
+    bottom: 0px;
+    right: 20px;
+    content:"▼";
+    animation-name: next-dialogue;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+  }
+  
+  @keyframes next-dialogue{
+    0%{
+      bottom: 0px;
+      filter: opacity(0.8);
+    }
+    50%{
+      bottom: 3px;
+      filter: opacity(1);
+    }
+    100%{
+      bottom: 0px;
+      filter: opacity(0.8);
+    }
+  }
+  
+  .new-who-is-speaking{
+    position: absolute;
+    z-index: 1;
+    top: -20px;
+    left: 80px;
+    width: 150px;
+    height: 40px;
+    text-align: center;
+    color: white;
+    
+    background-color: #152f22;
+    border: 2px solid #5f5102;
+  }
+  
+  .new-who-is-speaking:before, .new-who-is-speaking:after{
+    content:"◀▶";
+    color: #c6a90d;
+    position: absolute;
+    font-size: 50px;
+    transform: scale(0.6, 1);
+    top: 0;
+    letter-spacing: -10px;
+    
+  }
+  
+  .new-who-is-speaking:before{
+    left: -37px;
+  }
+  .new-who-is-speaking:after{
+    right: -32px;
+  }
