@@ -91,3 +91,7 @@
   .new-who-is-speaking:after{
     right: -32px;
   }
+
+  .chapter{
+      display: none;
+  }
