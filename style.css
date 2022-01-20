@@ -48,7 +48,7 @@
   @keyframes next-dialogue{
     0%{
       bottom: 0px;
-      filter: opacity(0.8);
+      filter: opacity(0.5);
     }
     50%{
       bottom: 3px;
@@ -56,7 +56,7 @@
     }
     100%{
       bottom: 0px;
-      filter: opacity(0.8);
+      filter: opacity(0.5);
     }
   }
   
