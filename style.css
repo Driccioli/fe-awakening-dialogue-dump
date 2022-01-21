@@ -10,11 +10,17 @@
  }
 
  nav{
-     display: flex;
-     justify-content:space-between;
-     align-items: center;
-     font-size: 14px;
-     text-align: left;
+    position: fixed;
+    top:0;
+    background-color: white;
+    z-index: 3;
+    padding: 20px;
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    font-size: 14px;
+    text-align: left;
+    width: 90%;
  }
 
  
@@ -65,7 +71,7 @@
     z-index: 1;
     top: -20px;
     left: 80px;
-    width: 150px;
+    width: 200px;
     height: 40px;
     text-align: center;
     color: white;
@@ -89,9 +95,10 @@
     left: -37px;
   }
   .new-who-is-speaking:after{
-    right: -32px;
+    right: -30px;
   }
 
   .chapter{
       display: none;
+      margin-top: 10vh;
   }

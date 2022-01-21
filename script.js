@@ -1,5 +1,9 @@
 var currentAvatarName= document.getElementById("current-avatar-name");
 var avatarName = document.getElementsByClassName("avatar-name");
+var isMale = document.getElementById("male");
+var isFemale = document.getElementById("female");
+var maleAvatar= document.getElementsByClassName("male-avatar"); 
+var femaleAvatar= document.getElementsByClassName("female-avatar"); 
 
     for(let i=0; i<avatarName.length; i++){
         avatarName[i].innerHTML = currentAvatarName.value;
@@ -12,7 +16,56 @@ var avatarName = document.getElementsByClassName("avatar-name");
         }
     })
 
+    for(let m = 0; m< maleAvatar.length; m++){
+        if(isMale.checked){
+            maleAvatar[m].style.display="inline";
+        }   else{
+            maleAvatar[m].style.display="none";
+        }
+    }
+    for(let f = 0; f< femaleAvatar.length; f++){
+        if(isFemale.checked){
+            femaleAvatar[f].style.display="inline";
+        }   else{
+            femaleAvatar[f].style.display="none";
+        }
+    }
     
+    isMale.addEventListener("click", function(){
+        
+        for(let m = 0; m< maleAvatar.length; m++){
+            if(isMale.checked){
+                maleAvatar[m].style.display="inline";
+            }   else{
+                maleAvatar[m].style.display="none";
+            }
+        }
+        for(let f = 0; f< femaleAvatar.length; f++){
+            if(isFemale.checked){
+                femaleAvatar[f].style.display="inline";
+            }   else{
+                femaleAvatar[f].style.display="none";
+            }
+        }
+        
+    });
+
+    isFemale.addEventListener("click", function(){
+        for(let m = 0; m< maleAvatar.length; m++){
+            if(isMale.checked){
+                maleAvatar[m].style.display="inline";
+            }   else{
+                maleAvatar[m].style.display="none";
+            }
+        }
+        for(let f = 0; f< femaleAvatar.length; f++){
+            if(isFemale.checked){
+                femaleAvatar[f].style.display="inline";
+            }   else{
+                femaleAvatar[f].style.display="none";
+            }
+        }
+    })
 
 
 var currentChapter = document.getElementById("chapters");
@@ -41,6 +94,11 @@ function getChapterScript(allChapters, currentChapter){
         }
     }
 }
+
+
+
+
+
 // function includeHTML() {
 //     var z, i, elmnt, file, xhttp;
 //     /* Loop through a collection of all HTML elements: */
