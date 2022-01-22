@@ -1,2 +1,4 @@
 <span class="avatar-name">Robin</span>
+<span class="male-avatar">he</span><span class="female-avatar">she</span>
 <span class="male-avatar">him</span><span class="female-avatar">her</span>
+<span class="male-avatar">actor</span><span class="female-avatar">actress</span>

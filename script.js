@@ -4,16 +4,71 @@ var isMale = document.getElementById("male");
 var isFemale = document.getElementById("female");
 var maleAvatar= document.getElementsByClassName("male-avatar"); 
 var femaleAvatar= document.getElementsByClassName("female-avatar"); 
+var avatarNameComment = document.getElementById("avatar-name-comment");
+
+function funnyComment(currentAvatarName, avatarNameComment){
+    switch (currentAvatarName.value){
+        case "Robin":{
+            avatarNameComment.innerText="The true name.";
+            break;
+        }
+        case "Reflet":{
+            avatarNameComment.innerText="Somehow, it feels just right.";
+            break;
+        }
+        case "Grima":{
+            avatarNameComment.innerText="Wrong timeline.";
+            break;
+        }
+        case "not Grima":{
+            avatarNameComment.innerText="...are you for real?";
+            break;
+        }
+        case "Chrom":{
+            avatarNameComment.innerText="Chrom? Is that foreign?";
+            break;
+        }
+        case "Frederick":{
+            avatarNameComment.innerText="Are you attempting to impersonate me?";
+            break;
+        }
+        case "Lissa":{
+            avatarNameComment.innerText="Sure, that sounds fun!";
+            break;
+        }
+        case "Vaike":{
+            avatarNameComment.innerText="Your name may be Vaike, but you can't be THE Vaike!";
+            break;
+        }
+        case "Marth":{
+            avatarNameComment.innerText="Are there any more Marths I should know about!?";
+            break;
+        }
+        case "Lucina":{
+            avatarNameComment.innerText="Wait- did Father name me after you?";
+            break;
+        }
+        case "Anna":{
+            avatarNameComment.innerText="Dear, that name's copyrighted.";
+            break;
+        }
+        default:{
+            avatarNameComment.innerText="";
+        }
+    }
+}
 
     for(let i=0; i<avatarName.length; i++){
         avatarName[i].innerHTML = currentAvatarName.value;
     }
+    funnyComment(currentAvatarName, avatarNameComment);
 
     currentAvatarName.addEventListener("input", function(){
         console.log(currentAvatarName.value);
         for(let i=0; i<avatarName.length; i++){
             avatarName[i].innerHTML = currentAvatarName.value;
         }
+        funnyComment(currentAvatarName, avatarNameComment);
     })
 
     for(let m = 0; m< maleAvatar.length; m++){
