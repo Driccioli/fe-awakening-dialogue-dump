@@ -9,24 +9,55 @@
     font-family: "fe-chiaro", sans-serif;
  }
 
+ body{
+   background-image: url("./img/background.png");
+   background-attachment: fixed;
+   background-repeat: no-repeat;
+   background-size: 100%;
+ }
+
+ .chapter{
+   display:none;
+   margin: 20vh auto 0 auto;
+   background-color:rgba(255,255,255,0.5);
+   width:min-content;
+   padding: 15px;
+   border-radius: 12px;
+ }
  nav{
     position: fixed;
-    top:0;
-    background-color: white;
+    top:-4px;
+    left: -10px;
+    background-image:url("./img/text-box.png");
+    background-size: 100% 170px;
+    background-position:center;
+    background-repeat: no-repeat;
     z-index: 3;
     padding: 20px;
     display: flex;
-    justify-content:space-between;
+    justify-content:space-around;
     align-items:flex-start;
     font-size: 14px;
     text-align: left;
-    width: 90%;
+    width: 100%;
+
+    
  }
 
- #avatar-content{
+  
+ #left-side, #avatar-content{
    display: flex;
    flex-direction: column;
    align-items: flex-start;
+ }
+
+ #chapter-select{
+   padding-top: 30px;
+   
+ }
+
+ #chapter-select > *{
+  font-size: 20px;
  }
 
  #avatar-name-comment{
@@ -106,9 +137,4 @@
   }
   .new-who-is-speaking:after{
     right: -30px;
-  }
-
-  .chapter{
-      display: none;
-      margin-top: 10vh;
   }
