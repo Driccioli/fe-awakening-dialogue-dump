@@ -9,51 +9,126 @@ var avatarNameComment = document.getElementById("avatar-name-comment");
 function funnyComment(currentAvatarName, avatarNameComment){
     switch (currentAvatarName.value){
         case "Robin":{
-            avatarNameComment.innerText="The true name.";
+            avatarNameComment.innerHTML="The true name.";
             break;
         }
         case "Reflet":{
-            avatarNameComment.innerText="Somehow, it feels just right.";
+            avatarNameComment.innerHTML="I don't think it's correct, and yet...";
             break;
         }
         case "Grima":{
-            avatarNameComment.innerText="Wrong timeline.";
+            avatarNameComment.innerHTML="Wrong timeline.";
             break;
         }
         case "not Grima":{
-            avatarNameComment.innerText="...are you for real?";
+            avatarNameComment.innerHTML="...are you for real?";
             break;
         }
         case "Chrom":{
-            avatarNameComment.innerText="Chrom? Is that foreign?";
+            avatarNameComment.innerHTML="Chrom? Is that foreign?";
             break;
         }
         case "Frederick":{
-            avatarNameComment.innerText="Are you attempting to impersonate me?";
+            avatarNameComment.innerHTML="Are you attempting to impersonate me?";
             break;
         }
         case "Lissa":{
-            avatarNameComment.innerText="Sure, that sounds fun!";
+            avatarNameComment.innerHTML="Sure, that sounds fun!";
             break;
         }
         case "Vaike":{
-            avatarNameComment.innerText="Your name may be Vaike, but you can't be THE Vaike!";
+            avatarNameComment.innerHTML="Your name may be Vaike, but you can't be THE Vaike!";
+            break;
+        }
+        case "Teach":{
+            avatarNameComment.innerHTML="HEY! There can be only one Teach around here!";
             break;
         }
         case "Marth":{
-            avatarNameComment.innerText="Are there any more Marths I should know about!?";
+            avatarNameComment.innerHTML="Are there any more Marths I should know about!?";
             break;
         }
         case "Lucina":{
-            avatarNameComment.innerText="Wait- did Father name me after you?";
+            avatarNameComment.innerHTML="Wait- did Father name me after you?";
+            break;
+        }
+        case "Owain":{
+            avatarNameComment.innerHTML="I see- you must be my evil doppleganger!";
+            break;
+        }
+        case "Inigo":{
+            avatarNameComment.innerHTML="Oh, you! No need to flatter me.";
+            break;
+        }
+        case "Severa":{
+            avatarNameComment.innerHTML="Name yourself ANYTHING else! Gawds!";
+            break;
+        }
+        case "Odin":{
+            avatarNameComment.innerHTML="That name- it sounds like a hero of legend!";
+            break;
+        }
+        case "Laslow":{
+            avatarNameComment.innerHTML="Ah, what a lovely name!";
+            break;
+        }
+        case "Selena":{
+            avatarNameComment.innerHTML="Huh. ..nice name, I guess?";
             break;
         }
         case "Anna":{
-            avatarNameComment.innerText="Dear, that name's copyrighted.";
+            avatarNameComment.innerHTML="Dear, that name's copyrighted.";
+            break;
+        }
+        case "Mark":{
+            avatarNameComment.innerHTML="*Lyn rapidly approaching*";
+            break;
+        }
+        case "Kris":{
+            avatarNameComment.innerHTML="Sounds.. strangely familiar?";
+            break;
+        }
+        case "Corrin":{
+            avatarNameComment.innerHTML="Well, the dragon part checks out at least...";
+            break;
+        }
+        case "Kiran":{
+            avatarNameComment.innerHTML="<b>'FIRE EMBLEM-'</b>";
+            break;
+        }
+        case "Byleth":{
+            avatarNameComment.innerHTML="All things considered, you WOULD be a good teacher...";
+            break;
+        }
+        case "Iturbide":
+        case "Snow":
+        case "Rose":{
+            avatarNameComment.innerHTML="<3";
+            break;
+        }
+        case "AAAAAAAAA":{
+            avatarNameComment.innerHTML="Not very creative...?";
+            break;
+        }
+        case "Bitch":{
+            avatarNameComment.innerHTML="*Validar sneezes*";
+            break;
+        }
+        case "E":{
+            avatarNameComment.innerHTML="🇪";
+            break;
+        }
+        case "Kaga":{
+            avatarNameComment.innerHTML="Do you believe he fears his own creation?";
+            break;
+        }
+        case "":{
+            avatarNameComment.innerHTML="Please write a name.";
+            setTimeout(()=>{avatarNameComment.innerHTML="..well you CAN leave it empty, but- isn't it weird?"}, 7000);
             break;
         }
         default:{
-            avatarNameComment.innerText="";
+            avatarNameComment.innerHTML="";
         }
     }
 }

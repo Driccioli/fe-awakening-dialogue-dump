@@ -1,4 +1,7 @@
-<span class="avatar-name">Robin</span>
-<span class="male-avatar">he</span><span class="female-avatar">she</span>
-<span class="male-avatar">him</span><span class="female-avatar">her</span>
-<span class="male-avatar">actor</span><span class="female-avatar">actress</span>
+<span class='avatar-name'>Robin</span>
+<span class='male-avatar'>he</span><span class='female-avatar'>she</span>
+<span class='male-avatar'>He</span><span class='female-avatar'>She</span>
+<span class='male-avatar'>him</span><span class='female-avatar'>her</span>
+<span class='male-avatar'>his</span><span class='female-avatar'>her</span>
+<span class='male-avatar'>man</span><span class='female-avatar'>woman</span>
+<span class='male-avatar'>actor</span><span class='female-avatar'>actress</span>
