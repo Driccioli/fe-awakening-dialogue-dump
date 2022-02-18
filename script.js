@@ -119,12 +119,12 @@ function funnyComment(currentAvatarName, avatarNameComment){
             break;
         }
         case "Kaga":{
-            avatarNameComment.innerHTML="Do you believe he fears his own creation?";
+            avatarNameComment.innerHTML="Do you believe God fears his own creation?";
             break;
         }
         case "":{
             avatarNameComment.innerHTML="Please write a name.";
-            setTimeout(()=>{avatarNameComment.innerHTML="..well you CAN leave it empty, but- isn't it weird?"}, 7000);
+            setTimeout(()=>{if(currentAvatarName.value === "")avatarNameComment.innerHTML="..well you CAN leave it empty, but- isn't it weird?"}, 7000);
             break;
         }
         default:{
