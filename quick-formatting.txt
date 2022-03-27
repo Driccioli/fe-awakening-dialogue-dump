@@ -5,3 +5,5 @@
 <span class='male-avatar'>his</span><span class='female-avatar'>her</span>
 <span class='male-avatar'>man</span><span class='female-avatar'>woman</span>
 <span class='male-avatar'>actor</span><span class='female-avatar'>actress</span>
+<span class='male-avatar'>man</span><span class='female-avatar'>woman</span>
+<span class='male-avatar'>father</span><span class='female-avatar'>mother</span>

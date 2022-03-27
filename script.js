@@ -76,6 +76,10 @@ function funnyComment(currentAvatarName, avatarNameComment){
             avatarNameComment.innerHTML="Huh. ..nice name, I guess?";
             break;
         }
+        case "Naga":{
+            avatarNameComment.innerHTML="You cannot, Fellblood.";
+            break;
+        }
         case "Anna":{
             avatarNameComment.innerHTML="Dear, that name's copyrighted.";
             break;
@@ -120,6 +124,14 @@ function funnyComment(currentAvatarName, avatarNameComment){
         }
         case "Kaga":{
             avatarNameComment.innerHTML="Do you believe God fears his own creation?";
+            break;
+        }
+        case "???":{
+            avatarNameComment.innerHTML="Hilarious.";
+            break;
+        }
+        case "...":{
+            avatarNameComment.innerHTML="...";
             break;
         }
         case "":{
@@ -204,8 +216,8 @@ var allChapters = document.getElementsByClassName("chapter");
 getChapterScript(allChapters, currentChapter);
 
     currentChapter.addEventListener("change", function(){
-        
-        for(let i=0; i<allChapters.length; i++){
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+        for(let i=0; i<allChapters.length; i++) {
             if(allChapters[i].id === currentChapter.value){
                 allChapters[i].style.display="block";
             }   else{

@@ -5,7 +5,7 @@ chapterDialogue = [
     },
     {
         "character": "Lissa",
-        "dialogue" : "Go on, Make yourself at home."
+        "dialogue" : "Go on, <br>Make yourself at home."
     },
     {
         "character": "Maribelle",
@@ -29,7 +29,7 @@ chapterDialogue = [
     },
     {
         "character": "Lissa",
-        "dialogue" : "...Although I could do without the bugs and the bear barbecue..."
+        "dialogue" : "...Although I could do without <br>the bugs and the bear barbecue..."
     },
     {
         "character": "Vaike",
@@ -37,7 +37,7 @@ chapterDialogue = [
     },
     {
         "character": "Vaike",
-        "dialogue" : "I bet he had a rough time out there without ol' Teach and his trusty axe!"
+        "dialogue" : "I bet he had a rough time out there <br>without ol' Teach and his trusty axe!"
     },
     {
         "character": "Lissa",
@@ -53,27 +53,27 @@ chapterDialogue = [
     },
     {
         "character": "Sumia",
-        "dialogue" : "Beg pardon, but when might we see the captian?"
+        "dialogue" : "Beg pardon, but when might <br>we see the captian?"
     },
     {
         "character": "Maribelle",
-        "dialogue" : "Poor Sumia. She's simply been beside herself with concern..."
+        "dialogue" : "Poor Sumia. She's simply been <br>beside herself with concern..."
     },
     {
         "character": "Maribelle",
-        "dialogue" : "Her eyes were scanning the horizon all day during training."
+        "dialogue" : "Her eyes were scanning the horizon <br>all day during training."
     },
     {
         "character": "Maribelle",
-        "dialogue" : "...She might have earned fewer bruises fighting blindfolded."
+        "dialogue" : "...She might have earned fewer bruises <br>fighting blindfolded."
     },
     {
         "character": "Lissa",
-        "dialogue" : "Aw, Sumia, that's so sweet of you to worry about Chrom."
+        "dialogue" : "Aw, Sumia, that's so sweet of you <br>to worry about Chrom."
     },
     {
         "character": "Sumia",
-        "dialogue" : "Worry? Well, I... He's our captain and our prince- of course I'd worry!"
+        "dialogue" : "Worry? Well, I... He's our captain <br>and our prince- of course I'd worry!"
     },
     {
         "character": "Vaike",
@@ -89,15 +89,15 @@ chapterDialogue = [
     },
     {
         "character": "Lissa",
-        "dialogue" : "You should see all the tricks <span class='male-avatar'>he</span><span class='female-avatar'>she</span>'s got up <span class='male-avatar'>his</span><span class='female-avatar'>her</span> sleeve!"
+        "dialogue" : "You should see all the tricks <br> <span class='male-avatar'>he</span><span class='female-avatar'>she</span>'s got up <span class='male-avatar'>his</span><span class='female-avatar'>her</span> sleeve!"
     },
     {
         "character": "Vaike",
-        "dialogue" : "Oh yeah? Can <span class='male-avatar'>he</span><span class='female-avatar'>she</span> do this? *buuuuuurp*"
+        "dialogue" : "Oh yeah? Can <span class='male-avatar'>he</span><span class='female-avatar'>she</span> do this? <br>*buuuuuurp*"
     },
     {
         "character": "<span class='avatar-name'>Robin</span>",
-        "dialogue" : "I'm sure I have much to learn in the belching arts, \"Teach.\""
+        "dialogue" : "I'm sure I have much to learn <br>in the belching arts, \"Teach.\""
     },
     {
         "character": "<span class='avatar-name'>Robin</span>",
@@ -105,7 +105,7 @@ chapterDialogue = [
     },
     {
         "character": "Maribelle",
-        "dialogue" : "Ugh, Vaike! That was abhorrent!"
+        "dialogue" : "Ugh, Vaike! <br>That was abhorrent!"
     },
     {
         "character": "Maribelle",
@@ -133,11 +133,11 @@ chapterDialogue = [
     },
     {
         "character": "Sumia",
-        "dialogue" : "No! I mean, yes! I mean... *sigh*"
+        "dialogue" : "No! I mean, yes! I mean... <br>*sigh*"
     },
     {
         "character": "Chrom",
-        "dialogue" : "All right, listen, everyone: in the morning, we'll be marching to Regna Ferox."
+        "dialogue" : "All right, listen, everyone: in the morning, <br>we'll be marching to Regna Ferox."
     },
     {
         "character": "<span class='avatar-name'>Robin</span>",
@@ -149,7 +149,7 @@ chapterDialogue = [
     },
     {
         "character": "Chrom",
-        "dialogue" : "Warriors are what they are, and we'll need their strength to quell thas new menace."
+        "dialogue" : "Warriors are what they are, and we'll need <br>their strength to quell thas new menace."
     },
     {
         "character": "Chrom",
@@ -157,7 +157,7 @@ chapterDialogue = [
     },
     {
         "character": "Chrom",
-        "dialogue" : "Well, the people might worry should my sister suddenly leave the capital."
+        "dialogue" : "Well, the people might worry <br>should my sister suddenly leave the capital."
     },
     {
         "character": "Chrom",
@@ -169,11 +169,11 @@ chapterDialogue = [
     },
     {
         "character": "Vaike",
-        "dialogue" : "Me too! You'll be needin' ol' Teach along for such a delicate mission!"
+        "dialogue" : "Me too! You'll be needin' ol' Teach <br>along for such a delicate mission!"
     },
     {
         "character": "Kellam",
-        "dialogue" : "I'll go as well. ...What? <br> I've been here the whole time!"
+        "dialogue" : "I'll go as well. <br>...What?  I've been here the whole time!"
     },
     {
         "character": "Sumia",
@@ -185,7 +185,7 @@ chapterDialogue = [
     },
     {
         "character": "Sumia",
-        "dialogue" : "It's just that... I'm not sure I'm quite ready for a proper mission just yet."
+        "dialogue" : "It's just that... I'm not sure I'm <br>quite ready for a proper mission just yet."
     },
     {
         "character": "Sumia",
@@ -197,7 +197,7 @@ chapterDialogue = [
     },
     {
         "character": "Chrom",
-        "dialogue" : "Your choice, of course. But some lessons can only be learned on the battlefield."
+        "dialogue" : "Your choice, of course. But some lessons <br>can only be learned on the battlefield."
     },
     {
         "character": "Sumia",
@@ -213,7 +213,7 @@ chapterDialogue = [
     },
     {
         "character": "Chrom",
-        "dialogue" : "Is everyone ready? We've a long march ahead."
+        "dialogue" : "Is everyone ready? <br>We've a long march ahead."
     },
     {
         "character": "Stahl",
@@ -225,11 +225,15 @@ chapterDialogue = [
     },
     {
         "character": "Stahl",
-        "dialogue" : "Why am I the last to hear about this expedition to Ferox?"
+        "dialogue" : "Why am I the last to hear <br>about this expedition to Ferox?"
     },
     {
         "character": "Lissa",
-        "dialogue" : "Huh? Vaike was supposed to... Vaike! Did you forget to tell Stahl about our mission?"
+        "dialogue" : "Huh? Vaike was supposed to..."
+    },
+    {
+        "character": "Lissa",
+        "dialogue" : "Vaike! Did you forget to tell Stahl <br>about our mission?"
     },
     {
         "character": "Vaike",
@@ -241,7 +245,7 @@ chapterDialogue = [
     },
     {
         "character": "Lissa",
-        "dialogue" : "Speaking of which, are you SURE you remembered your axe this time?"
+        "dialogue" : "Speaking of which, are you SURE <br>you remembered your axe this time?"
     },
     {
         "character": "Vaike",
@@ -249,7 +253,7 @@ chapterDialogue = [
     },
     {
         "character": "Vaike",
-        "dialogue" : "...Okay, twice, but training sessions don't count."
+        "dialogue" : "...Okay, twice, <br>but training sessions don't count."
     },
     {
         "character": "Vaike",
@@ -301,7 +305,7 @@ chapterDialogue = [
     },
     {
         "character": "Vaike",
-        "dialogue" : "Mya ha! They'll remember ME once I drive my axe into their..."
+        "dialogue" : "Mya ha! They'll remember ME <br>once I drive my axe into their..."
     },
     {
         "character": "Vaike",
@@ -317,23 +321,23 @@ chapterDialogue = [
     },
     {
         "character": "Chrom",
-        "dialogue" : "Keep to the rear, then! The battle is nigh!"
+        "dialogue" : "Keep to the rear, then! <br>The battle is nigh!"
     },
     {
         "character": "Frederick",
-        "dialogue" : "All right, listen up. ...Especially those of you who BROUGHT weapons!"
+        "dialogue" : "All right, listen up. ...Especially <br>those of you who BROUGHT weapons!"
     },
     {
         "character": "Frederick",
-        "dialogue" : "All weapons have strengths and weaknesses to bear in mind."
+        "dialogue" : "All weapons have strengths <br>and weaknesses to bear in mind."
     },
     {
         "character": "Frederick",
-        "dialogue" : "Lances have an advantage over swords, for example, while swords best axes."
+        "dialogue" : "Lances have an advantage over swords, <br>for example, while swords best axes."
     },
     {
         "character": "Frederick",
-        "dialogue" : "We'll want to work this into our strategy whenever possible."
+        "dialogue" : "We'll want to work this <br>into our strategy whenever possible."
     },
     {
         "character": "Miriel",
@@ -345,15 +349,15 @@ chapterDialogue = [
     },
     {
         "character": "Miriel",
-        "dialogue" : "I'd not thought such dereliction permissible among the Shepherds."
+        "dialogue" : "I'd not thought such dereliction <br>permissible among the Shepherds."
     },
     {
         "character": "Miriel",
-        "dialogue" : "Still, I'd be remiss to not return this implement to its owner."
+        "dialogue" : "Still, I'd be remiss to not return <br>this implement to its owner."
     },
     {
         "character": "Miriel",
-        "dialogue" : "Perhaps along with a stern word or two of disapprobation!"
+        "dialogue" : "Perhaps along with a stern word <br>or two of disapprobation!"
     },
     {
         "character": "Vaike",
@@ -361,7 +365,7 @@ chapterDialogue = [
     },
     {
         "character": "Miriel",
-        "dialogue" : "I wondered what manner of ignoramus would mislay their weapon. Now I know."
+        "dialogue" : "I wondered what manner of ignoramus <br>would mislay their weapon. Now I know."
     },
     {
         "character": "Vaike",
@@ -369,11 +373,11 @@ chapterDialogue = [
     },
     {
         "character": "Miriel",
-        "dialogue" : "Perhaps next time I'll use a spell to fasten it to your hands... permanently."
+        "dialogue" : "Perhaps next time I'll use a spell <br>to fasten it to your hands... permanently."
     },
     {
         "character": "Chrom",
-        "dialogue" : "What's next, <span class='avatar-name'>Robin</span>? Guide our swords."
+        "dialogue" : "What's next, <span class='avatar-name'>Robin</span>? <br>Guide our swords."
     },
     {
         "character": "Frederick",
@@ -381,7 +385,7 @@ chapterDialogue = [
     },
     {
         "character": "Frederick",
-        "dialogue" : "<span class='avatar-name'>Robin</span> is a fine tactician, but we have been working <span class='male-avatar'>him</span><span class='female-avatar'>her</span> mercilessly."
+        "dialogue" : "<span class='avatar-name'>Robin</span> is a fine tactician, <br>but we have been working <span class='male-avatar'>him</span><span class='female-avatar'>her</span> mercilessly."
     },
     {
         "character": "Frederick",
@@ -393,7 +397,7 @@ chapterDialogue = [
     },
     {
         "character": "Frederick",
-        "dialogue" : "Perhaps <span class='avatar-name'>Robin</span> would prefer we choose our own actions at times."
+        "dialogue" : "Perhaps <span class='avatar-name'>Robin</span> would prefer<br> we choose our own actions at times."
     },
     {
         "character": "Chrom",
@@ -401,15 +405,15 @@ chapterDialogue = [
     },
     {
         "character": "Frederick",
-        "dialogue" : "We could use a simple command that lets us fight on our own."
+        "dialogue" : "We could use a simple command <br>that lets us fight on our own."
     },
     {
         "character": "Frederick",
-        "dialogue" : "So long as <span class='avatar-name'>Robin</span> realizes such a strategy does not guarantee victory."
+        "dialogue" : "So long as <span class='avatar-name'>Robin</span> realizes <br>such a strategy does not guarantee victory."
     },
     {
         "character": "Frederick",
-        "dialogue" : "Acting as we see fit may not always lead us to the best course of action."
+        "dialogue" : "Acting as we see fit may not always <br>lead us to the best course of action."
     },
     {
         "character": "Risen Chief",
@@ -425,7 +429,7 @@ chapterDialogue = [
     },
     {
         "character": "Frederick",
-        "dialogue" : "Then no path is safe. We'll need to stay wary."
+        "dialogue" : "Then no path is safe. <br>We'll need to stay wary."
     },
     {
         "character": "<span class='avatar-name'>Robin</span>",
@@ -453,15 +457,15 @@ chapterDialogue = [
     },
     {
         "character": "Sumia",
-        "dialogue" : "No! I mean, Yes! I mean... *sigh*"
+        "dialogue" : "No! I mean, Yes! I mean... <br>*sigh*"
     },
     {
         "character": "Chrom",
-        "dialogue" : "Well, come no closer. This beast is crazed!"
+        "dialogue" : "Well, come no closer. <br>This beast is crazed!"
     },
     {
         "character": "Sumia",
-        "dialogue" : "It's okay, Captain. I can handle this... Shhh... Easy now, girl. I won't hurt you."
+        "dialogue" : "It's okay, Captain. I can handle this... <br>Shhh... Easy now, girl. I won't hurt you."
     },
     {
         "character": "Sumia",
@@ -489,7 +493,7 @@ chapterDialogue = [
     },
     {
         "character": "Sumia",
-        "dialogue" : "You all go ahead. I'll dress her wounds and catch up as soon as we're able."
+        "dialogue" : "You all go ahead. I'll dress her wounds <br>and catch up as soon as we're able."
     },
     {
         "character": "Chrom",
@@ -501,7 +505,7 @@ chapterDialogue = [
     },
     {
         "character": "Sumia",
-        "dialogue" : "Every moment is precious when all of Ylisse is in danger."
+        "dialogue" : "Every moment is precious <br>when all of Ylisse is in danger."
     },
     {
         "character": "Chrom",

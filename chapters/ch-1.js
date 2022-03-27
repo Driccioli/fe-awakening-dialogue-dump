@@ -13,7 +13,11 @@ chapterDialogue = [
     },
     {
         "character": "Chrom",
-        "dialogue" : "Aw, come on now, Lissa. Hardship builds character. Want to help me gather firewood?"
+        "dialogue" : "Aw, come on now, Lissa. <br>Hardship builds character."
+    },
+    {
+        "character": "Chrom",
+        "dialogue" : "Want to help me gather firewood?"
     },
     {
         "character": "Lissa",
@@ -21,7 +25,11 @@ chapterDialogue = [
     },
     {
         "character": "Lissa",
-        "dialogue" : "I'll pass on finding firewood, thanks. I think I've built QUITE enough character for one day!"
+        "dialogue" : "I'll pass on finding firewood, thanks."
+    },
+    {
+        "character": "Lissa",
+        "dialogue" : "I think I've built QUITE enough <br>character for one day!"
     },
     {
         "character": "<span class='avatar-name'>Robin</span>",
@@ -69,7 +77,7 @@ chapterDialogue = [
     },
     {
         "character": "Chrom",
-        "dialogue" : "Just eat it, Lissa. Meat is meat."
+        "dialogue" : "Just eat it, Lissa. <br>Meat is meat."
     },
     {
         "character": "Lissa",
@@ -97,7 +105,7 @@ chapterDialogue = [
     },
     {
         "character": "Lissa",
-        "dialogue" : "*Yawn* What's wrong, Big Brother?"
+        "dialogue" : "*Yawn* <br>What's wrong, Big Brother?"
     },
     {
         "character": "Chrom",
@@ -109,7 +117,7 @@ chapterDialogue = [
     },
     {
         "character": "Chrom",
-        "dialogue" : "I'm not sure... I think I'll have a look around."
+        "dialogue" : "I'm not sure... <br>I think I'll have a look around."
     },
     {
         "character": "Lissa",
@@ -169,7 +177,7 @@ chapterDialogue = [
     },
     {
         "character": "???",
-        "dialogue" : "(grunts) Help!"
+        "dialogue" : "(grunts) <br>Help!"
     },
     {
         "character": "Chrom",
@@ -245,7 +253,7 @@ chapterDialogue = [
     },
     {
         "character": "Sully",
-        "dialogue" : "I know just the spot for it: shoved right up your—"
+        "dialogue" : "I know just the spot for it: <br>shoved right up your—"
     },
     {
         "character": "Virion",
@@ -317,7 +325,7 @@ chapterDialogue = [
     },
     {
         "character": "Virion",
-        "dialogue" : "So please, don't feel pressured to answer right a—"
+        "dialogue" : "So please, don't feel <br>pressured to answer right a—"
     },
     {
         "character": "Sully",
@@ -329,7 +337,7 @@ chapterDialogue = [
     },
     {
         "character": "Virion",
-        "dialogue" : "P-please, milady! Allow me to accompany you, at least!"
+        "dialogue" : "P-please, milady! <br>Allow me to accompany you, at least!"
     },
     {
         "character": "Virion",
@@ -357,7 +365,7 @@ chapterDialogue = [
     },
     {
         "character": "Virion",
-        "dialogue" : "So kindly keep me one step away from peril, if you would!"
+        "dialogue" : "So kindly keep me one step away from peril, <br>if you would!"
     },
     {
         "character": "Risen Chief",
@@ -453,43 +461,47 @@ chapterDialogue = [
     },
     {
         "character": "<span class='avatar-name'>Robin</span>",
-        "dialogue" : "Is it safe for her to walk among commoners like this?"
+        "dialogue" : "Is it safe for her to walk <br>among commoners like this?"
     },
     {
         "character": "Frederick",
-        "dialogue" : "The exalt is a symbol of peace—Ylisse's most prized quality."
+        "dialogue" : "The exalt is a symbol of peace—<br>Ylisse's most prized quality."
     },
     {
         "character": "Frederick",
-        "dialogue" : "Long ago, at the dawn of our age, the fell dragon tried to destroy the world."
+        "dialogue" : "Long ago, at the dawn of our age, <br>the fell dragon tried to destroy the world."
     },
     {
         "character": "Frederick",
-        "dialogue" : "But the first exalt joined forces with the divine dragon and laid the beast low."
+        "dialogue" : "But the first exalt joined forces with <br>the divine dragon and laid the beast low."
     },
     {
         "character": "Frederick",
-        "dialogue" : "Exalt Emmeryn reminds us all of the peace we fought for then."
+        "dialogue" : "Exalt Emmeryn reminds us all <br>of the peace we fought for then."
     },
     {
         "character": "Chrom",
-        "dialogue" : "With Plegia poking at our borders, the people need her."
+        "dialogue" : "With Plegia poking at our borders, <br>the people need her."
     },
     {
         "character": "Chrom",
-        "dialogue" : "She's a calming presence, when some might otherwise call for war."
+        "dialogue" : "She's a calming presence, <br>when some might otherwise call for war."
     },
     {
         "character": "<span class='avatar-name'>Robin</span>",
-        "dialogue" : "Then the Ylissean people are indeed lucky to have her."
+        "dialogue" : "Then the Ylissean people <br>are indeed lucky to have her."
     },
     {
         "character": "Lissa",
-        "dialogue" : "She's also the best big sister anyone could ask for!"
+        "dialogue" : "She's also the best big sister <br>anyone could ask for!"
     },
     {
         "character": "<span class='avatar-name'>Robin</span>",
-        "dialogue" : "Yes, I imagine she... Wait, what? She's your... But wouldn't that make you and Chrom..."
+        "dialogue" : "Yes, I imagine she... <br>Wait, what?"
+    },
+    {
+        "character": "<span class='avatar-name'>Robin</span>",
+        "dialogue" : "She's your... <br>But wouldn't that make you and Chrom..."
     },
     {
         "character": "Frederick",
@@ -517,7 +529,7 @@ chapterDialogue = [
     },
     {
         "character": "Frederick",
-        "dialogue" : "Indeed. Oh, the sacrifices I make for the good of the realm..."
+        "dialogue" : "Indeed. Oh, the sacrifices I make <br>for the good of the realm..."
     },
     {
         "character": "Chrom",
@@ -525,11 +537,15 @@ chapterDialogue = [
     },
     {
         "character": "Emmeryn",
-        "dialogue" : "Chrom! Lissa! Welcome home. Oh, and good day, Frederick. How fared you all?"
+        "dialogue" : "Chrom! Lissa! Welcome home."
+    },
+    {
+        "character": "Emmeryn",
+        "dialogue" : "Oh, and good day, Frederick. <br>How fared you all?"
     },
     {
         "character": "Chrom",
-        "dialogue" : "Well—we shouldn't have any bandit problems for a while."
+        "dialogue" : "Well—we shouldn't have any <br>bandit problems for a while."
     },
     {
         "character": "Emmeryn",
@@ -581,7 +597,7 @@ chapterDialogue = [
     },
     {
         "character": "Frederick",
-        "dialogue" : "<span class='avatar-name'>Robin</span> claims to have lost <span class='male-avatar'>his</span><span class='female-avatar'>her</span> memory, but it is only that: a claim."
+        "dialogue" : "<span class='avatar-name'>Robin</span> claims to have lost <span class='male-avatar'>his</span><span class='female-avatar'>her</span> memory, <br>but it is only that: a claim."
     },
     {
         "character": "Frederick",
@@ -613,19 +629,19 @@ chapterDialogue = [
     },
     {
         "character": "Emmeryn",
-        "dialogue" : "But thank you, Frederick, for your prudence, as always."
+        "dialogue" : "But thank you, Frederick, <br>for your prudence, as always."
     },
     {
         "character": "Emmeryn",
-        "dialogue" : "Chrom and Lissa are blessed to have so tireless a guardian."
+        "dialogue" : "Chrom and Lissa are blessed to have <br>so tireless a guardian."
     },
     {
         "character": "Emmeryn",
-        "dialogue" : "I do hope they remember to mention that from time to time..."
+        "dialogue" : "I do hope they remember <br>to mention that from time to time..."
     },
     {
         "character": "Frederick",
-        "dialogue" : "They occasionally express something akin to gratitude, Your Grace."
+        "dialogue" : "They occasionally express something <br>akin to gratitude, Your Grace."
     },
     {
         "character": "Frederick",

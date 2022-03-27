@@ -269,7 +269,7 @@ chapterDialogue = [
   },
   {
     "character" : "Frederick",
-    "dialogue" : "Remember, <span class=\"avatar-name\">Robin</span>, we face practiced thieves and murderers."
+    "dialogue" : "Remember, <span class=\"avatar-name\">Robin</span>, we face <br>practiced thieves and murderers."
   },
   {
     "character" : "Frederick",
@@ -277,7 +277,7 @@ chapterDialogue = [
   },
   {
     "character" : "Chrom",
-    "dialogue" : "So, <span class=\"avatar-name\">Robin</span>, I see you wear a sword. Is it— Wait, is that a tome? ...You know magic?"
+    "dialogue" : "So, <span class=\"avatar-name\">Robin</span>, I see you wear a sword. Is it— <br>Wait, is that a tome? ...You know magic?"
   },
   {
     "character" : "<span class=\"avatar-name\">Robin</span>",
@@ -289,11 +289,19 @@ chapterDialogue = [
   },
   {
     "character" : "<span class=\"avatar-name\">Robin</span>",
-    "dialogue" : "No, I can control it. I'm sure. Now, how did this work again? Ah, yes..."
+    "dialogue" : "No, I can control it. I'm sure."
+  },
+  {
+    "character" : "<span class=\"avatar-name\">Robin</span>",
+    "dialogue" : "Now, how did this work again? <br>Ah, yes..."
   },
   {
     "character" : "Lissa",
-    "dialogue" : "We'll see who's delicate! I may not be able to attack like Chrom, but when you get injured?"
+    "dialogue" : "We'll see who's delicate!"
+  },
+  {
+    "character" : "Lissa",
+    "dialogue" : "I may not be able to attack like Chrom, but when you get injured?"
   },
   {
     "character" : "Lissa",
@@ -373,7 +381,7 @@ chapterDialogue = [
   },
   {
     "character" : "Garrick",
-    "dialogue" : "Here, sheepy sheepy! Come to the slaughter!"
+    "dialogue" : "Here, sheepy sheepy! <br>Come to the slaughter!"
   },
   {
     "character" : "Garrick",
@@ -393,7 +401,7 @@ chapterDialogue = [
   },
   {
     "character" : "Chrom",
-    "dialogue" : "You're certainly no helpless victim, that much is for sure."
+    "dialogue" : "You're certainly no helpless victim, <br>that much is for sure."
   },
   {
     "character" : "Frederick",
@@ -405,7 +413,7 @@ chapterDialogue = [
   },
   {
     "character" : "<span class=\"avatar-name\">Robin</span>",
-    "dialogue" : "And I cannot explain why only some knowledge has returned to me."
+    "dialogue" : "And I cannot explain why only some <br>knowledge has returned to me."
   },
   {
     "character" : "<span class=\"avatar-name\">Robin</span>",
@@ -425,7 +433,7 @@ chapterDialogue = [
   },
   {
     "character" : "Chrom",
-    "dialogue" : "We've brigands and unruly neighbors, all looking to bloody our soil."
+    "dialogue" : "We've brigands and unruly neighbors, <br>all looking to bloody our soil."
   },
   {
     "character" : "Chrom",
@@ -441,7 +449,7 @@ chapterDialogue = [
   },
   {
     "character" : "Chrom",
-    "dialogue" : "So how about it? Will you join us, <span class=\"avatar-name\">Robin</span>?"
+    "dialogue" : "So how about it? <br>Will you join us, <span class=\"avatar-name\">Robin</span>?"
   },
   {
     "character" : "<span class=\"avatar-name\">Robin</span>",
@@ -481,7 +489,7 @@ chapterDialogue = [
   },
   {
     "character" : "Villager",
-    "dialogue" : "Milord, please! You must stay the night!"
+    "dialogue" : "Milord, please! <br>You must stay the night!"
   },
   {
     "character" : "Villager",
@@ -509,11 +517,11 @@ chapterDialogue = [
   },
   {
     "character" : "Frederick",
-    "dialogue" : "Eat off the land, make our bed of twigs and the like..."
+    "dialogue" : "Eat off the land, make our bed of twigs <br>and the like..."
   },
   {
     "character" : "Frederick",
-    "dialogue" : "I believe you mentioned you would be \"getting used to this\"?"
+    "dialogue" : "I believe you mentioned you would be <br>\"getting used to this\"?"
   },
   {
     "character" : "Lissa",
@@ -529,7 +537,7 @@ chapterDialogue = [
   },
   {
     "character" : "Chrom",
-    "dialogue" : "Frederick only smiles when he's about to bring down the axe."
+    "dialogue" : "Frederick only smiles when he's about <br>to bring down the axe."
   },
   {
     "character" : "<span class=\"avatar-name\">Robin</span>",
@@ -537,7 +545,7 @@ chapterDialogue = [
   },
   {
     "character" : "Frederick",
-    "dialogue" : "*Ahem* You do realize I AM still present?"
+    "dialogue" : "*Ahem* <br>You do realize I AM still present?"
   },
   {
     "character" : "Chrom",
@@ -553,7 +561,11 @@ chapterDialogue = [
   },
   {
     "character" : "Chrom",
-    "dialogue" : "All right, all right. Ready to go, <span class=\"avatar-name\">Robin</span>? <br>The capital isn't far."
+    "dialogue" : "All right, all right."
+  },
+  {
+    "character" : "Chrom",
+    "dialogue" : "Ready to go, <span class=\"avatar-name\">Robin</span>? <br>The capital isn't far."
   },
 ]
 document.write(`

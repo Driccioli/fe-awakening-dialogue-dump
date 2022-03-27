@@ -1,7 +1,7 @@
 chapterDialogue = [
     {
         "character": "Lissa",
-        "dialogue" : "Brrr! F-F-Frebberick! I'm f-f-freebing!"
+        "dialogue" : "Brrr! F-F-Frebberick! <br>I'm f-f-freebing!"
     },
     {
         "character": "Frederick",
@@ -17,11 +17,11 @@ chapterDialogue = [
     },
     {
         "character": "Frederick",
-        "dialogue" : "The khans that rule Ferox have grown quite wary of foreigners."
+        "dialogue" : "The khans that rule Ferox <br>have grown quite wary of foreigners."
     },
     {
         "character": "Frederick",
-        "dialogue" : "Still, don't mistake a lack of hospitality for open hostility."
+        "dialogue" : "Still, don't mistake a lack of hospitality <br>for open hostility."
     },
     {
         "character": "Frederick",
@@ -29,7 +29,7 @@ chapterDialogue = [
     },
     {
         "character": "Chrom",
-        "dialogue" : "Negotiation's not my strong suit, but I'll do my best."
+        "dialogue" : "Negotiation's not my strong suit, <br>but I'll do my best."
     },
     {
         "character": "Chrom",
@@ -45,19 +45,19 @@ chapterDialogue = [
     },
     {
         "character": "Frederick",
-        "dialogue" : "Who can say? But they look ready to let fly at a moment's notice."
+        "dialogue" : "Who can say? But they look ready <br>to let fly at a moment's notice."
     },
     {
         "character": "Frederick",
-        "dialogue" : "We'd best prepare for combat, just to be safe."
+        "dialogue" : "We'd best prepare for combat,<br> just to be safe."
     },
     {
         "character": "Frederick",
-        "dialogue" : "Perhaps we ought pool our supplies and select which Shepherds to deploy?"
+        "dialogue" : "Perhaps we ought pool our supplies <br>and select which Shepherds to deploy?"
     },
     {
         "character": "Frederick",
-        "dialogue" : "Loath as I am to trust <span class='male-avatar'>him</span><span class='female-avatar'>her</span>, <span class='avatar-name'>Robin</span> might offer some valuable insight in this..."
+        "dialogue" : "Loath as I am to trust <span class='male-avatar'>him</span><span class='female-avatar'>her</span>, <span class='avatar-name'>Robin</span><br> might offer some valuable insight in this..."
     },
     {
         "character": "Chrom",
@@ -81,11 +81,11 @@ chapterDialogue = [
     },
     {
         "character": "Frederick",
-        "dialogue" : "Exalt Emmeryn herself sent us to discuss matters of mutual interest."
+        "dialogue" : "Exalt Emmeryn herself sent us <br>to discuss matters of mutual interest."
     },
     {
         "character": "Raimi",
-        "dialogue" : "My only interest is keeping you out of Regna Ferox, brigand!"
+        "dialogue" : "My only interest is keeping you <br>out of Regna Ferox, brigand!"
     },
     {
         "character": "Frederick",
@@ -93,11 +93,11 @@ chapterDialogue = [
     },
     {
         "character": "Raimi",
-        "dialogue" : "You think you are the first \"Ylisseans\" to try and cross our border?"
+        "dialogue" : "You think you are the first \"Ylisseans\" <br>to try and cross our border?"
     },
     {
         "character": "Raimi",
-        "dialogue" : "I have the authority to fell such imposters where they stand."
+        "dialogue" : "I have the authority to fell <br>such imposters where they stand."
     },
     {
         "character": "Frederick",
@@ -109,11 +109,11 @@ chapterDialogue = [
     },
     {
         "character": "Raimi",
-        "dialogue" : "You do realize impersonating royalty is a capital offense, yes?"
+        "dialogue" : "You do realize impersonating royalty <br>is a capital offense, yes?"
     },
     {
         "character": "Raimi",
-        "dialogue" : "Mmm... Then perhaps we should settle this the Feroxi way."
+        "dialogue" : "Mmm... Then perhaps we should <br>settle this the Feroxi way."
     },
     {
         "character": "Raimi",
@@ -125,7 +125,7 @@ chapterDialogue = [
     },
     {
         "character": "Raimi",
-        "dialogue" : "I've heard quite enough! Attack!"
+        "dialogue" : "I've heard quite enough! <br>Attack!"
     },
     {
         "character": "Chrom",
@@ -153,7 +153,7 @@ chapterDialogue = [
     },
     {
         "character": "Sumia",
-        "dialogue" : "Oh, Captain, I'm so relieved I made it in time."
+        "dialogue" : "Oh, Captain, <br>I'm so relieved I made it in time."
     },
     {
         "character": "Chrom",
@@ -161,7 +161,7 @@ chapterDialogue = [
     },
     {
         "character": "Chrom",
-        "dialogue" : "And this—is this the same ornery pegasus we met on the road?!"
+        "dialogue" : "And this—is this the same <br>ornery pegasus we met on the road?!"
     },
     {
         "character": "Sumia",
@@ -177,7 +177,7 @@ chapterDialogue = [
     },
     {
         "character": "Frederick",
-        "dialogue" : "And I think we had all best focus on the situation at hand!"
+        "dialogue" : "And I think we had all best <br>focus on the situation at hand!"
     },
     {
         "character": "<span class='avatar-name'>Robin</span>",
@@ -185,15 +185,15 @@ chapterDialogue = [
     },
     {
         "character": "Chrom",
-        "dialogue" : "All right. The Feroxi way it is!"
+        "dialogue" : "All right. <br>The Feroxi way it is!"
     },
     {
         "character": "Sumia",
-        "dialogue" : "Phila said pegasi can fly far afield, but they're highly vulnerable to arrows."
+        "dialogue" : "Phila said pegasi can fly far afield, <br>but they're highly vulnerable to arrows."
     },
     {
         "character": "Sumia",
-        "dialogue" : "Don't worry, girl. I'll watch out for archers for both our sakes!"
+        "dialogue" : "Don't worry, girl. I'll watch out <br>for archers for both our sakes!"
     },
     {
         "character": "Chrom",
@@ -209,7 +209,7 @@ chapterDialogue = [
     },
     {
         "character": "Kellam",
-        "dialogue" : "I'm standing in plain sight, sir. Right he—"
+        "dialogue" : "I'm standing in plain sight, sir. <br>Right he—"
     },
     {
         "character": "Chrom",
@@ -217,7 +217,7 @@ chapterDialogue = [
     },
     {
         "character": "Kellam",
-        "dialogue" : "...The same time as you. I've been with you all along."
+        "dialogue" : "...The same time as you. <br>I've been with you all along."
     },
     {
         "character": "Kellam",
@@ -241,11 +241,11 @@ chapterDialogue = [
     },
     {
         "character": "Kellam",
-        "dialogue" : "I've been calling to you and waving my arms for several minutes..."
+        "dialogue" : "I've been calling to you <br>and waving my arms for several minutes..."
     },
     {
         "character": "Kellam",
-        "dialogue" : "I don't think they've so much as glanced this way."
+        "dialogue" : "I don't think they've so much <br>as glanced this way."
     },
     {
         "character": "Chrom",
@@ -265,7 +265,7 @@ chapterDialogue = [
     },
     {
         "character": "<span class='avatar-name'>Robin</span>",
-        "dialogue" : "I've been thinking about how you rode with Sumia earlier..."
+        "dialogue" : "I've been thinking about <br>how you rode with Sumia earlier..."
     },
     {
         "character": "<span class='avatar-name'>Robin</span>",
@@ -285,7 +285,7 @@ chapterDialogue = [
     },
     {
         "character": "<span class='avatar-name'>Robin</span>",
-        "dialogue" : "It might also allow quicker soldiers to ferry slower units great distances..."
+        "dialogue" : "It might also allow quicker soldiers <br>to ferry slower units great distances..."
     },
     {
         "character": "<span class='avatar-name'>Robin</span>",
@@ -293,35 +293,35 @@ chapterDialogue = [
     },
     {
         "character": "<span class='avatar-name'>Robin</span>",
-        "dialogue" : "We should try it whenever the opportunity presents itself."
+        "dialogue" : "We should try it whenever <br>the opportunity presents itself."
     },
     {
         "character": "Kellam",
-        "dialogue" : "*Sigh* Do they STILL not see me?"
+        "dialogue" : "*Sigh* <br>Do they STILL not see me?"
     },
     {
         "character": "Kellam",
-        "dialogue" : "Perhaps Chrom will talk to me if I...wave my...hands around..."
+        "dialogue" : "Perhaps Chrom will talk to me if I...<br>wave my...hands around..."
     },
     {
         "character": "Chrom",
-        "dialogue" : "It already feels as though <span class='avatar-name'>Robin</span> has been a Shepherd forever."
+        "dialogue" : "It already feels as though <span class='avatar-name'>Robin</span><br> has been a Shepherd forever."
     },
     {
         "character": "Chrom",
-        "dialogue" : "It's funny how fighting alongside someone speeds friendships along..."
+        "dialogue" : "It's funny how fighting alongside <br>someone speeds friendships along..."
     },
     {
         "character": "Chrom",
-        "dialogue" : "And the more we fight side by side, the more valuable those friendships become!"
+        "dialogue" : "And the more we fight side by side, <br>the more valuable those friendships become!"
     },
     {
         "character": "Frederick",
-        "dialogue" : "A key! We can use it to open the fortress doors."
+        "dialogue" : "A key! We can use it <br>to open the fortress doors."
     },
     {
         "character": "Raimi",
-        "dialogue" : "Let our battle sound out the truth of your words!"
+        "dialogue" : "Let our battle sound out <br>the truth of your words!"
     },
     {
         "character": "Raimi",
@@ -333,7 +333,7 @@ chapterDialogue = [
     },
     {
         "character": "Raimi",
-        "dialogue" : "But no frauds could ever wage a battle as you just have!"
+        "dialogue" : "But no frauds could ever wage<br> a battle as you just have!"
     },
     {
         "character": "Raimi",
