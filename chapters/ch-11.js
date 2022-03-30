@@ -108,7 +108,7 @@ chapterDialogue = [
         "dialogue" : "It just took her to bring it to the surface."
     },
     {
-        "character": "Robin",
+        "character": "<span class='avatar-name'>Robin</span>",
         "dialogue" : "......"
     },
     {
@@ -256,7 +256,7 @@ chapterDialogue = [
         "dialogue" : "Yes, sire!"
     },
     {
-        "character": "Robin",
+        "character": "<span class='avatar-name'>Robin</span>",
         "dialogue" : "What's wrong, Chrom? <br>You look so serious."
     },
     {
@@ -264,7 +264,7 @@ chapterDialogue = [
         "dialogue" : "I...I think I owe you an apology. <br>This wasn't your war to fight."
     },
     {
-        "character": "Robin",
+        "character": "<span class='avatar-name'>Robin</span>",
         "dialogue" : "But I chose to fight it."
     },
     {
@@ -276,12 +276,12 @@ chapterDialogue = [
         "dialogue" : "Even my own life would not have been <br>too high a price to pay."
     },
     {
-        "character": "Robin",
+        "character": "<span class='avatar-name'>Robin</span>",
         "dialogue" : "It would have been for us! <br>...And for me."
     },
     {
         "character": "Chrom",
-        "dialogue" : "I've been thinking a lot lately, about everything. And about you, Robin."
+        "dialogue" : "I've been thinking a lot lately, about everything. And about you, <span class='avatar-name'>Robin</span>."
     },
     {
         "character": "Chrom",
@@ -292,15 +292,15 @@ chapterDialogue = [
         "dialogue" : "You are a special <span class='male-avatar'>man</span><span class='female-avatar'>woman</span>, and I...I wonder <br>if you think of me as more than your leader?"
     },
     {
-        "character": "Robin",
+        "character": "<span class='avatar-name'>Robin</span>",
         "dialogue" : "I think of you as a great man, and...<br>dear to my heart."
     },
     {
         "character": "Chrom",
-        "dialogue" : "I never want to let you go, Robin. <br>Does that make me selfish?"
+        "dialogue" : "I never want to let you go, <span class='avatar-name'>Robin</span>. <br>Does that make me selfish?"
     },
     {
-        "character": "Robin",
+        "character": "<span class='avatar-name'>Robin</span>",
         "dialogue" : "If so, then let me be selfish, too. <br>I would be with you, always."
     },
     {
@@ -308,15 +308,15 @@ chapterDialogue = [
         "dialogue" : "......"
     },
     {
-        "character": "Robin",
+        "character": "<span class='avatar-name'>Robin</span>",
         "dialogue" : "......"
     },
     {
         "character": "Chrom",
-        "dialogue" : "Robin?"
+        "dialogue" : "<span class='avatar-name'>Robin</span>?"
     },
     {
-        "character": "Robin",
+        "character": "<span class='avatar-name'>Robin</span>",
         "dialogue" : "Yes, Chrom?"
     },
     {
@@ -332,7 +332,7 @@ chapterDialogue = [
         "dialogue" : "What I want to ask you... Well, what I mean is... Will you marry me?"
     },
     {
-        "character": "Robin",
+        "character": "<span class='avatar-name'>Robin</span>",
         "dialogue" : "...Yes."
     },
     {
@@ -352,7 +352,7 @@ chapterDialogue = [
         "dialogue" : "But then, we can begin our life together."
     },
     {
-        "character": "Robin",
+        "character": "<span class='avatar-name'>Robin</span>",
         "dialogue" : "That's all right. I'm a tactician, remember? <br>I'll figure something out."
     },
     {
@@ -360,15 +360,15 @@ chapterDialogue = [
         "dialogue" : "Thank you."
     },
     {
-        "character": "Robin",
+        "character": "<span class='avatar-name'>Robin</span>",
         "dialogue" : "I can't help but think back <br>to the day we first met..."
     },
     {
-        "character": "Robin",
+        "character": "<span class='avatar-name'>Robin</span>",
         "dialogue" : "Strange, isn't it, the way <br>fate brought us together?"
     },
     {
-        "character": "Robin",
+        "character": "<span class='avatar-name'>Robin</span>",
         "dialogue" : "I am a lucky <span class='male-avatar'>man</span><span class='female-avatar'>woman</span> to have met you,<br> and luckier still now."
     },
     {
@@ -380,7 +380,7 @@ chapterDialogue = [
         "dialogue" : "I'll do everything I can to make the castle <br>a happy home for us...my love."
     },
     {
-        "character": "Robin",
+        "character": "<span class='avatar-name'>Robin</span>",
         "dialogue" : "My love."
     },
     {
@@ -585,7 +585,7 @@ chapterDialogue = [
     },
     {
         "character": "Lissa",
-        "dialogue" : "Uh-huh. Flavia? Robin? <br>Maybe we should... you know."
+        "dialogue" : "Uh-huh. Flavia? <span class='avatar-name'>Robin</span>? <br>Maybe we should... you know."
     },
     {
         "character": "Flavia",
@@ -944,23 +944,23 @@ chapterDialogue = [
         "dialogue" : "Ill business to be sure. <br>Raimi, we will meet with Flavia at once..."
     },
     {
-        "character": "Robin",
+        "character": "<span class='avatar-name'>Robin</span>",
         "dialogue" : "Chrom..."
     },
     {
         "character": "Chrom",
-        "dialogue" : "I know what you're thinking, Robin, <br>but we owe Regna Ferox a great debt."
+        "dialogue" : "I know what you're thinking, <span class='avatar-name'>Robin</span>, <br>but we owe Regna Ferox a great debt."
     },
     {
         "character": "Chrom",
         "dialogue" : "I must apprise myself of the facts there <br>before deciding on a course of action."
     },
     {
-        "character": "Robin",
+        "character": "<span class='avatar-name'>Robin</span>",
         "dialogue" : "Nope, not what I was thinking."
     },
     {
-        "character": "Robin",
+        "character": "<span class='avatar-name'>Robin</span>",
         "dialogue" : "I was actually going to suggest <br>we discuss strategy as we travel."
     },
     {
@@ -968,15 +968,15 @@ chapterDialogue = [
         "dialogue" : "B-but Lucina is newly born! <br>She needs her <span class='male-avatar'>father</span><span class='female-avatar'>mother</span> now."
     },
     {
-        "character": "Robin",
+        "character": "<span class='avatar-name'>Robin</span>",
         "dialogue" : "You told me House Ylisse <br>has a tradition of wet-nursing."
     },
     {
-        "character": "Robin",
+        "character": "<span class='avatar-name'>Robin</span>",
         "dialogue" : "And you and Lissa turned out <br>rather well from where I stand."
     },
     {
-        "character": "Robin",
+        "character": "<span class='avatar-name'>Robin</span>",
         "dialogue" : "Lucina is a strong child; she takes after her father. The Brand in her left eye proves it."
     },
     {
@@ -984,11 +984,11 @@ chapterDialogue = [
         "dialogue" : "I'm not just worried about her. <br>...I'd worry about you as well."
     },
     {
-        "character": "Robin",
+        "character": "<span class='avatar-name'>Robin</span>",
         "dialogue" : "All the more reason <br>to keep me close at hand, no?"
     },
     {
-        "character": "Robin",
+        "character": "<span class='avatar-name'>Robin</span>",
         "dialogue" : "Together we can be <br>more than we can alone, remember?"
     },
     {
@@ -997,7 +997,7 @@ chapterDialogue = [
     },
     {
         "character": "Chrom",
-        "dialogue" : "All right, Robin. <br>Just promise to stay safe."
+        "dialogue" : "All right, <span class='avatar-name'>Robin</span>. <br>Just promise to stay safe."
     },
     {
         "character": "Chrom",
@@ -1008,7 +1008,7 @@ chapterDialogue = [
         "dialogue" : "I want Lucina to grow up <br>with her whole family around her."
     },
     {
-        "character": "Robin",
+        "character": "<span class='avatar-name'>Robin</span>",
         "dialogue" : "As do I. <br>You have my word."
     },
     {
@@ -1560,11 +1560,11 @@ chapterDialogue = [
         "dialogue" : "Thank you, Frederick."
     },
     {
-        "character": "Robin",
+        "character": "<span class='avatar-name'>Robin</span>",
         "dialogue" : "I'm quite impressed, Chrom. <br>You make a fine ruler."
     },
     {
-        "character": "Robin",
+        "character": "<span class='avatar-name'>Robin</span>",
         "dialogue" : "You've come a long way from tending sheep!"
     },
     {
@@ -1572,7 +1572,7 @@ chapterDialogue = [
         "dialogue" : "Ha! Have I truly changed so much?"
     },
     {
-        "character": "Robin",
+        "character": "<span class='avatar-name'>Robin</span>",
         "dialogue" : "Mmm... In a way, you haven't. But you've grown as a leader, and, of course, as a father."
     },
     {
