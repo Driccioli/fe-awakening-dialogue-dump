@@ -1,7 +1,7 @@
 chapterDialogue = [
     {
         "character": "Raimi",
-        "dialogue" : "Prince Chrom, please wait here while I summon the khan."
+        "dialogue" : "Prince Chrom, please wait here <br>while I summon the khan."
     },
     {
         "character": "Chrom",
@@ -25,7 +25,7 @@ chapterDialogue = [
     },
     {
         "character": "Robin",
-        "dialogue" : "A giant of a man of unparalleled thew, his broad chest covered in hair, heheh..."
+        "dialogue" : "A giant of a man of unparalleled thew, <br>his broad chest covered in hair, heheh..."
     },
     {
         "character": "Flavia",
@@ -81,7 +81,7 @@ chapterDialogue = [
     },
     {
         "character": "Chrom",
-        "dialogue" : "In that case, you should have a word with your damn border guards..."
+        "dialogue" : "In that case, you should have a word <br>with your damn border guards..."
     },
     {
         "character": "Flavia",
@@ -93,7 +93,7 @@ chapterDialogue = [
     },
     {
         "character": "Flavia",
-        "dialogue" : "But regrettably, I cannot provide any Feroxi troops for Ylisse."
+        "dialogue" : "But regrettably, I cannot provide <br>any Feroxi troops for Ylisse."
     },
     {
         "character": "Lissa",
@@ -113,19 +113,19 @@ chapterDialogue = [
     },
     {
         "character": "Flavia",
-        "dialogue" : "In Ferox, the khans of east and west hold a tournament every few years."
+        "dialogue" : "In Ferox, the khans of east and west <br>hold a tournament every few years."
     },
     {
         "character": "Flavia",
-        "dialogue" : "The victor acquires total sovereignty over both kingdoms."
+        "dialogue" : "The victor acquires total sovereignty <br>over both kingdoms."
     },
     {
         "character": "Flavia",
-        "dialogue" : "And that means they have the final say when it comes to forging alliances."
+        "dialogue" : "And that means they have the final say <br>when it comes to forging alliances."
     },
     {
         "character": "Flavia",
-        "dialogue" : "The West-Khan won the last tournament, you see, and so..."
+        "dialogue" : "The West-Khan won the last tournament, <br>you see, and so..."
     },
     {
         "character": "Chrom",
@@ -137,7 +137,7 @@ chapterDialogue = [
     },
     {
         "character": "Flavia",
-        "dialogue" : "The next tournament is nigh, you see, and I am in need of champions."
+        "dialogue" : "The next tournament is nigh, you see, <br>and I am in need of champions."
     },
     {
         "character": "Chrom",
@@ -149,15 +149,15 @@ chapterDialogue = [
     },
     {
         "character": "Flavia",
-        "dialogue" : "Perhaps you would consider representing the East in the upcoming tournament?"
+        "dialogue" : "Perhaps you would consider representing <br>the East in the upcoming tournament?"
     },
     {
         "character": "Flavia",
-        "dialogue" : "If you win and I become ruling khan, I will grant your alliance."
+        "dialogue" : "If you win and I become ruling khan, <br>I will grant your alliance."
     },
     {
         "character": "Chrom",
-        "dialogue" : "I would have assumed Ylisseans had no place in such Feroxi traditions."
+        "dialogue" : "I would have assumed Ylisseans <br>had no place in such Feroxi traditions."
     },
     {
         "character": "Flavia",
@@ -165,15 +165,15 @@ chapterDialogue = [
     },
     {
         "character": "Flavia",
-        "dialogue" : "The khans themselves do not fight—they choose champions to represent them."
+        "dialogue" : "The khans themselves do not fight—<br>they choose champions to represent them."
     },
     {
         "character": "Flavia",
-        "dialogue" : "Otherwise our land would be rife with blood feuds and dead khans!"
+        "dialogue" : "Otherwise our land would be rife <br>with blood feuds and dead khans!"
     },
     {
         "character": "Flavia",
-        "dialogue" : "We don't involve comrades or kin for the same reason."
+        "dialogue" : "We don't involve comrades <br>or kin for the same reason."
     },
     {
         "character": "Flavia",
@@ -193,11 +193,11 @@ chapterDialogue = [
     },
     {
         "character": "Chrom",
-        "dialogue" : "We face not only Plegia's constant attacks, but now the added threat of the Risen."
+        "dialogue" : "We face not only Plegia's constant attacks, <br>but now the added threat of the Risen."
     },
     {
         "character": "Chrom",
-        "dialogue" : "If fighting for you is the quickest way to an alliance, then we will take up our steel."
+        "dialogue" : "If fighting for you is the quickest way <br>to an alliance, then we will take up our steel."
     },
     {
         "character": "Flavia",
@@ -205,11 +205,11 @@ chapterDialogue = [
     },
     {
         "character": "Flavia",
-        "dialogue" : "Come, I'll show you the arena where the tournament is held."
+        "dialogue" : "Come, I'll show you the arena <br>where the tournament is held."
     },
     {
         "character": "Flavia",
-        "dialogue" : "But be wary! I hear an equally able swordsman champions the West-Khan."
+        "dialogue" : "But be wary! I hear an equally <br>able swordsman champions the West-Khan."
     },
     {
         "character": "Chrom",
@@ -217,7 +217,7 @@ chapterDialogue = [
     },
     {
         "character": "Flavia",
-        "dialogue" : "Well spoken again—I look forward to seeing if you're equally skilled with a blade!"
+        "dialogue" : "Well spoken again—I look forward to seeing <br>if you're equally skilled with a blade!"
     },
     {
         "character": "Lissa",
@@ -233,7 +233,7 @@ chapterDialogue = [
     },
     {
         "character": "Chrom",
-        "dialogue" : "Marth! One question, before we begin?"
+        "dialogue" : "Marth! <br>One question, before we begin?"
     },
     {
         "character": "Marth",
@@ -241,7 +241,7 @@ chapterDialogue = [
     },
     {
         "character": "Chrom",
-        "dialogue" : "...Fine, then. Our swords can speak for us!"
+        "dialogue" : "...Fine, then. <br>Our swords can speak for us!"
     },
     {
         "character": "Chrom",
@@ -249,7 +249,7 @@ chapterDialogue = [
     },
     {
         "character": "Chrom",
-        "dialogue" : "Tell me—Who taught you to fight like that?"
+        "dialogue" : "Tell me—<br>Who taught you to fight like that?"
     },
     {
         "character": "Marth",
@@ -273,15 +273,15 @@ chapterDialogue = [
     },
     {
         "character": "Chrom",
-        "dialogue" : "Lissa owes you her life, and for that you have my gratitude."
+        "dialogue" : "Lissa owes you her life, <br>and for that you have my gratitude."
     },
     {
         "character": "Chrom",
-        "dialogue" : "But within these walls, I represent the East-Khan and the interests of Ylisse."
+        "dialogue" : "But within these walls, I represent <br>the East-Khan and the interests of Ylisse."
     },
     {
         "character": "Chrom",
-        "dialogue" : "I can't promise to stay my blade, but I vow not to shame you."
+        "dialogue" : "I can't promise to stay my blade, <br>but I vow not to shame you."
     },
     {
         "character": "Marth",
@@ -297,7 +297,7 @@ chapterDialogue = [
     },
     {
         "character": "Flavia",
-        "dialogue" : "And, perhaps more to the point, you have your alliance."
+        "dialogue" : "And, perhaps more to the point, <br>you have your alliance."
     },
     {
         "character": "Flavia",
@@ -309,15 +309,15 @@ chapterDialogue = [
     },
     {
         "character": "Flavia",
-        "dialogue" : "I should thank you! It feels like ages since I've held full power."
+        "dialogue" : "I should thank you! It feels like ages <br>since I've held full power."
     },
     {
         "character": "Flavia",
-        "dialogue" : "Come, my new friends! Tonight, we celebrate!"
+        "dialogue" : "Come, my new friends! <br>Tonight, we celebrate!"
     },
     {
         "character": "Basilio",
-        "dialogue" : "Bah! Any excuse for a party and Flavia jumps on it..."
+        "dialogue" : "Bah! Any excuse for a party <br>and Flavia jumps on it..."
     },
     {
         "character": "Chrom",
@@ -325,7 +325,7 @@ chapterDialogue = [
     },
     {
         "character": "Basilio",
-        "dialogue" : "I'm the West-Khan you so rudely removed from power!"
+        "dialogue" : "I'm the West-Khan you so rudely <br>removed from power!"
     },
     {
         "character": "Basilio",
@@ -341,19 +341,19 @@ chapterDialogue = [
     },
     {
         "character": "Basilio",
-        "dialogue" : "All I know is that he turned up one eve and knocked my old champion flat."
+        "dialogue" : "All I know is that he turned up one eve <br>and knocked my old champion flat."
     },
     {
         "character": "Basilio",
-        "dialogue" : "It was love at first sight, and I'm generally too old for such things! Baha!"
+        "dialogue" : "It was love at first sight, and I'm <br>generally too old for such things! Baha!"
     },
     {
         "character": "Basilio",
-        "dialogue" : "Anyway, he's gone now. Up and fled the moment the tournament ended."
+        "dialogue" : "Anyway, he's gone now. Up and fled <br>the moment the tournament ended."
     },
     {
         "character": "Lissa",
-        "dialogue" : "He's so dark and mysterious... *siiigh*"
+        "dialogue" : "He's so dark and mysterious... <br>*siiigh*"
     },
     {
         "character": "Robin",
@@ -377,7 +377,7 @@ chapterDialogue = [
     },
     {
         "character": "Frederick",
-        "dialogue" : "The exalt will want this news of our new alliance immediately."
+        "dialogue" : "The exalt will want this news <br>of our new alliance immediately."
     },
     {
         "character": "Chrom",
@@ -397,7 +397,7 @@ chapterDialogue = [
     },
     {
         "character": "Basilio",
-        "dialogue" : "Not much for talking, mind you, but he's peerless with a sword."
+        "dialogue" : "Not much for talking, mind you, <br>but he's peerless with a sword."
     },
     {
         "character": "Basilio",
@@ -405,7 +405,7 @@ chapterDialogue = [
     },
     {
         "character": "Basilio",
-        "dialogue" : "To be honest, I can't figure out how Marth bested him so quickly."
+        "dialogue" : "To be honest, I can't figure out <br>how Marth bested him so quickly."
     },
     {
         "character": "Lissa",
@@ -417,11 +417,11 @@ chapterDialogue = [
     },
     {
         "character": "Lissa",
-        "dialogue" : "Hey! Wh-what did I say?!"
+        "dialogue" : "Hey! <br>Wh-what did I say?!"
     },
     {
         "character": "Basilio",
-        "dialogue" : "Ba ha ha! Let's just say that ladies tend to put Lon'qu on edge."
+        "dialogue" : "Ba ha ha! Let's just say that ladies <br>tend to put Lon'qu on edge."
     },
     {
         "character": "Basilio",
@@ -429,7 +429,7 @@ chapterDialogue = [
     },
     {
         "character": "Basilio",
-        "dialogue" : "Consider him West Ferox's contribution to the Ylissean cause."
+        "dialogue" : "Consider him West Ferox's contribution <br>to the Ylissean cause."
     },
     {
         "character": "Chrom",
@@ -441,7 +441,7 @@ chapterDialogue = [
     },
     {
         "character": "Chrom",
-        "dialogue" : "And Lon'qu? You have no objections?"
+        "dialogue" : "And Lon'qu? <br>You have no objections?"
     },
     {
         "character": "Lon'qu",
@@ -457,7 +457,7 @@ chapterDialogue = [
     },
     {
         "character": "Emmeryn",
-        "dialogue" : "Thank you, Chrom. I knew sending you was the right choice."
+        "dialogue" : "Thank you, Chrom. <br>I knew sending you was the right choice."
     },
     {
         "character": "Chrom",
@@ -469,15 +469,15 @@ chapterDialogue = [
     },
     {
         "character": "Emmeryn",
-        "dialogue" : "Phila! Slow down, please! What's happened?"
+        "dialogue" : "Phila! Slow down, please! <br>What's happened?"
     },
     {
         "character": "Phila",
-        "dialogue" : "Plegian soldiers have been sighted inside our southwest border!"
+        "dialogue" : "Plegian soldiers have been sighted <br>inside our southwest border!"
     },
     {
         "character": "Phila",
-        "dialogue" : "They attacked a village in Themis and abducted the Duke's daughter. "
+        "dialogue" : "They attacked a village in Themis <br>and abducted the Duke's daughter. "
     },
     {
         "character": "Lissa",
@@ -489,11 +489,11 @@ chapterDialogue = [
     },
     {
         "character": "Phila",
-        "dialogue" : "He demands we repay reparations for this \"insult.\""
+        "dialogue" : "He demands we repay <br>reparations for this \"insult.\""
     },
     {
         "character": "Chrom",
-        "dialogue" : "And we're to believe a dastard like the Mad King of Plegia? "
+        "dialogue" : "And we're to believe a dastard <br>like the Mad King of Plegia? "
     },
     {
         "character": "Emmeryn",
@@ -501,15 +501,15 @@ chapterDialogue = [
     },
     {
         "character": "Chrom",
-        "dialogue" : "We should put a sword in his gut and be done with it!"
+        "dialogue" : "We should put a sword in his gut <br>and be done with it!"
     },
     {
         "character": "Chrom",
-        "dialogue" : "The Mad King has been trying to provoke war with Ylisse at every step!"
+        "dialogue" : "The Mad King has been trying <br>to provoke war with Ylisse at every step!"
     },
     {
         "character": "Chrom",
-        "dialogue" : "He won't stop until he drags this whole continent to hell with him!"
+        "dialogue" : "He won't stop until he drags <br>this whole continent to hell with him!"
     },
     {
         "character": "Phila",
@@ -517,15 +517,15 @@ chapterDialogue = [
     },
     {
         "character": "Phila",
-        "dialogue" : "We must demonstrate to Plegia that such actions have consequences. "
+        "dialogue" : "We must demonstrate to Plegia <br>that such actions have consequences. "
     },
     {
         "character": "Emmeryn",
-        "dialogue" : "I understand your feelings, Chrom. Truly I do."
+        "dialogue" : "I understand your feelings, Chrom. <br>Truly I do."
     },
     {
         "character": "Emmeryn",
-        "dialogue" : "But if we give him the war he wants, then we lose, no matter what the outcome."
+        "dialogue" : "But if we give him the war he wants, <br>then we lose, no matter what the outcome."
     },
     {
         "character": "Emmeryn",
@@ -545,7 +545,7 @@ chapterDialogue = [
     },
     {
         "character": "Emmeryn",
-        "dialogue" : "So we either choose to march to war or leave Lady Maribelle to die?"
+        "dialogue" : "So we either choose to march to war <br>or leave Lady Maribelle to die?"
     },
     {
         "character": "Emmeryn",
@@ -553,7 +553,7 @@ chapterDialogue = [
     },
     {
         "character": "Phila",
-        "dialogue" : "...Forgive me, Your Grace. I spoke out of turn."
+        "dialogue" : "...Forgive me, Your Grace. <br>I spoke out of turn."
     },
     {
         "character": "Phila",
@@ -561,11 +561,11 @@ chapterDialogue = [
     },
     {
         "character": "Phila",
-        "dialogue" : "Pray, allow the pegasus knights to accompany you, though."
+        "dialogue" : "Pray, allow the pegasus knights <br>to accompany you, though."
     },
     {
         "character": "Chrom",
-        "dialogue" : "I'm going, too. ...Someone has to save you from your good intentions."
+        "dialogue" : "I'm going, too. ...Someone has <br>to save you from your good intentions."
     },
     {
         "character": "Lissa",
@@ -577,7 +577,7 @@ chapterDialogue = [
     },
     {
         "character": "Chrom",
-        "dialogue" : "Well then! Is everyone ready to go?"
+        "dialogue" : "Well then! <br>Is everyone ready to go?"
     },
     {
         "character": "Chrom",
@@ -597,11 +597,11 @@ chapterDialogue = [
     },
     {
         "character": "Chrom",
-        "dialogue" : "I'd feel safer with your magic here, protecting the garrison."
+        "dialogue" : "I'd feel safer with your magic here, <br>protecting the garrison."
     },
     {
         "character": "Chrom",
-        "dialogue" : "All right? We're off, then. Be good."
+        "dialogue" : "All right? We're off, then. <br>Be good."
     },
     {
         "character": "Ricken",

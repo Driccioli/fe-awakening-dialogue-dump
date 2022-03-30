@@ -126,6 +126,10 @@ function funnyComment(currentAvatarName, avatarNameComment){
             avatarNameComment.innerHTML="Do you believe God fears his own creation?";
             break;
         }
+        case "Dedede":{
+            avatarNameComment.innerHTML="The king of the show.";
+            break;
+        }
         case "???":{
             avatarNameComment.innerHTML="Hilarious.";
             break;
@@ -210,13 +214,16 @@ function funnyComment(currentAvatarName, avatarNameComment){
     })
 
 
-var currentChapter = document.getElementById("chapters");
-var allChapters = document.getElementsByClassName("chapter");
+const currentChapter = document.getElementById("chapters");
+const allChapters = document.getElementsByClassName("chapter");
+const background = document.getElementById("app");
 
 getChapterScript(allChapters, currentChapter);
+getBackground(currentChapter, background);
 
     currentChapter.addEventListener("change", function(){
         window.scrollTo({ top: 0, behavior: 'smooth' });
+        getBackground(currentChapter, background);
         for(let i=0; i<allChapters.length; i++) {
             if(allChapters[i].id === currentChapter.value){
                 allChapters[i].style.display="block";
@@ -238,6 +245,52 @@ function getChapterScript(allChapters, currentChapter){
 }
 
 
+
+function getBackground(currentChapter, background){
+    switch(currentChapter.value){
+        case "premonition":{
+            background.style.backgroundImage = "url('./img/premonition-bg.jpeg')";
+            break;
+        }
+        case "prologue":{
+            background.style.backgroundImage = "url('./img/prologue-bg.jpeg')";
+            break;
+        }
+        case "ch-1":{
+            background.style.backgroundImage = "url('./img/ch-1-bg.jpeg')";
+            break;
+        }
+        case "ch-3":{
+            background.style.backgroundImage = "url('./img/ch-3-bg.jpeg')";
+            break;
+        }
+        case "ch-4":{
+            background.style.backgroundImage = "url('./img/ch-4-bg.jpeg')";
+            break;
+        }
+        case "ch-6":{
+            background.style.backgroundImage = "url('./img/ch-6-bg.jpeg')";
+            break;
+        }
+        case "ch-9":{
+            background.style.backgroundImage = "url('./img/ch-9-bg.jpeg')";
+            break;
+        }
+        case "ch-10":{
+            background.style.backgroundImage = "url('./img/ch-10-bg.jpeg')";
+            break;
+        }
+        case "ch-11":{
+            background.style.backgroundImage = "url('./img/ch-11-bg.png')";
+            break;
+        }
+        default:{
+            background.style.backgroundImage = "url('./img/cooler-bg.png')";
+            break;
+        }
+    }
+    console.log(background);
+}
 
 
 

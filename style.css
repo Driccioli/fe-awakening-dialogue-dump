@@ -11,6 +11,7 @@
 
  body{
    background-image: url("./img/background.png");
+   transition: background-image 1s;
    background-attachment: fixed;
    background-repeat: no-repeat;
    background-size: 100%;

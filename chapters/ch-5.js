@@ -5,15 +5,15 @@ chapterDialogue = [
     },
     {
         "character": "Gangrel",
-        "dialogue" : "I fear I must shield my eyes! Bwa ha ha ha!"
+        "dialogue" : "I fear I must shield my eyes! <br>Bwa ha ha ha!"
     },
     {
         "character": "Emmeryn",
-        "dialogue" : "King Gangrel, I've come for the truth of this unfortunate incident between us."
+        "dialogue" : "King Gangrel, I've come for the truth <br>of this unfortunate incident between us."
     },
     {
         "character": "Aversa",
-        "dialogue" : "The truth? I can give you the truth."
+        "dialogue" : "The truth? <br>I can give you the truth."
     },
     {
         "character": "Emmeryn",
@@ -25,11 +25,11 @@ chapterDialogue = [
     },
     {
         "character": "Emmeryn",
-        "dialogue" : "Very well, Aversa. Is Maribelle unharmed?"
+        "dialogue" : "Very well, Aversa. <br>Is Maribelle unharmed?"
     },
     {
         "character": "Gangrel",
-        "dialogue" : "Who? Oh yes, that little blonde brat."
+        "dialogue" : "Who? O<br>h yes, that little blonde brat."
     },
     {
         "character": "Maribelle",
@@ -45,7 +45,7 @@ chapterDialogue = [
     },
     {
         "character": "Aversa",
-        "dialogue" : "This girl crossed the Plegian border without our consent."
+        "dialogue" : "This girl crossed the Plegian border <br>without our consent."
     },
     {
         "character": "Aversa",
@@ -53,7 +53,7 @@ chapterDialogue = [
     },
     {
         "character": "Aversa",
-        "dialogue" : "She wounded the brave Plegian soldiers who sought only to escort her safely home."
+        "dialogue" : "She wounded the brave Plegian soldiers <br>who sought only to escort her safely home."
     },
     {
         "character": "Maribelle",
@@ -77,7 +77,7 @@ chapterDialogue = [
     },
     {
         "character": "Gangrel",
-        "dialogue" : "It would take an act of CONSIDERABLE good faith to repair our relations."
+        "dialogue" : "It would take an act of CONSIDERABLE <br>good faith to repair our relations."
     },
     {
         "character": "Maribelle",
@@ -93,7 +93,7 @@ chapterDialogue = [
     },
     {
         "character": "Maribelle",
-        "dialogue" : "Let the plundered shops and charred homes of that village serve as my proof!"
+        "dialogue" : "Let the plundered shops and charred homes <br>of that village serve as my proof!"
     },
     {
         "character": "Gangrel",
@@ -101,7 +101,7 @@ chapterDialogue = [
     },
     {
         "character": "Gangrel",
-        "dialogue" : "But indeed, tonight I shall weep salty tears into my pillow for your dead villagers."
+        "dialogue" : "But indeed, tonight I shall weep salty tears <br>into my pillow for your dead villagers."
     },
     {
         "character": "Maribelle",
@@ -113,7 +113,7 @@ chapterDialogue = [
     },
     {
         "character": "Emmeryn",
-        "dialogue" : "King Gangrel, I request that you release this woman at once."
+        "dialogue" : "King Gangrel, I request that you <br>release this woman at once."
     },
     {
         "character": "Emmeryn",
@@ -133,7 +133,7 @@ chapterDialogue = [
     },
     {
         "character": "Gangrel",
-        "dialogue" : "Control your dog, my dear, before he gets someone hurt."
+        "dialogue" : "Control your dog, my dear, <br>before he gets someone hurt."
     },
     {
         "character": "Chrom",
@@ -145,7 +145,7 @@ chapterDialogue = [
     },
     {
         "character": "Gangrel",
-        "dialogue" : "You give me the Fire Emblem, and I return Mari Contrary here in one piece."
+        "dialogue" : "You give me the Fire Emblem, <br>and I return Mari Contrary here in one piece."
     },
     {
         "character": "Emmeryn",
@@ -157,11 +157,11 @@ chapterDialogue = [
     },
     {
         "character": "Gangrel",
-        "dialogue" : "The Fire Emblem is the key to having all one's wishes realized."
+        "dialogue" : "The Fire Emblem is the key <br>to having all one's wishes realized."
     },
     {
         "character": "Gangrel",
-        "dialogue" : "I have desired it for years. YEARS!"
+        "dialogue" : "I have desired it for years. <br>YEARS!"
     },
     {
         "character": "Gangrel",
@@ -173,7 +173,7 @@ chapterDialogue = [
     },
     {
         "character": "Emmeryn",
-        "dialogue" : "to save the world and its people at their hour of most desperate need."
+        "dialogue" : "to save the world and its people <br>at their hour of most desperate need."
     },
     {
         "character": "Emmeryn",
@@ -193,7 +193,7 @@ chapterDialogue = [
     },
     {
         "character": "Gangrel",
-        "dialogue" : "Surely you have not forgotten what the last exalt did to my people?"
+        "dialogue" : "Surely you have not forgotten <br>what the last exalt did to my people?"
     },
     {
         "character": "Gangrel",
@@ -205,7 +205,7 @@ chapterDialogue = [
     },
     {
         "character": "Emmeryn",
-        "dialogue" : "...I have never denied Ylisse's past wrongdoings."
+        "dialogue" : "...I have never denied <br>Ylisse's past wrongdoings."
     },
     {
         "character": "Emmeryn",
@@ -233,7 +233,7 @@ chapterDialogue = [
     },
     {
         "character": "Gangrel",
-        "dialogue" : "I shall have the Emblem if I have to pry it from your shiny dead hands!"
+        "dialogue" : "I shall have the Emblem if I have to pry it <br>from your shiny dead hands!"
     },
     {
         "character": "Chrom",
@@ -241,11 +241,11 @@ chapterDialogue = [
     },
     {
         "character": "Gangrel",
-        "dialogue" : "Now that's a declaration of war if I've ever heard one..."
+        "dialogue" : "Now that's a declaration of war <br>if I've ever heard one..."
     },
     {
         "character": "Gangrel",
-        "dialogue" : "A big, messy war that will bleed you Ylisseans dry. Bwa ha ha!"
+        "dialogue" : "A big, messy war <br>that will bleed you Ylisseans dry. Bwa ha ha!"
     },
     {
         "character": "Aversa",
@@ -253,7 +253,7 @@ chapterDialogue = [
     },
     {
         "character": "Aversa",
-        "dialogue" : "Years from now, you'll be remembered only as she who destroyed House Ylisse."
+        "dialogue" : "Years from now, you'll be remembered <br>only as she who destroyed House Ylisse."
     },
     {
         "character": "Maribelle",
@@ -273,7 +273,7 @@ chapterDialogue = [
     },
     {
         "character": "Ricken",
-        "dialogue" : "Just run! We can talk about it later!"
+        "dialogue" : "Just run! <br>We can talk about it later!"
     },
     {
         "character": "Aversa",
@@ -285,7 +285,7 @@ chapterDialogue = [
     },
     {
         "character": "Aversa",
-        "dialogue" : "Nngh! W-wind magic?"
+        "dialogue" : "Nngh! <br>W-wind magic?"
     },
     {
         "character": "Ricken",
@@ -301,11 +301,11 @@ chapterDialogue = [
     },
     {
         "character": "Aversa",
-        "dialogue" : "No. Our soldiers have them outnumbered."
+        "dialogue" : "No. <br>Our soldiers have them outnumbered."
     },
     {
         "character": "Aversa",
-        "dialogue" : "The brats will be dead long before they can reach their comrades."
+        "dialogue" : "The brats will be dead long before <br>they can reach their comrades."
     },
     {
         "character": "Gangrel",
@@ -313,11 +313,11 @@ chapterDialogue = [
     },
     {
         "character": "Gangrel",
-        "dialogue" : "Captain Orton! Remain here, and take down as many Ylisseans as you can."
+        "dialogue" : "Captain Orton! Remain here, <br>and take down as many Ylisseans as you can."
     },
     {
         "character": "Gangrel",
-        "dialogue" : "You can expect reinforcements from the forts as well."
+        "dialogue" : "You can expect reinforcements <br>from the forts as well."
     },
     {
         "character": "Gangrel",
@@ -325,11 +325,11 @@ chapterDialogue = [
     },
     {
         "character": "Orton",
-        "dialogue" : "I won't ask for your name. Only your life!"
+        "dialogue" : "I won't ask for your name. <br>Only your life!"
     },
     {
         "character": "Orton",
-        "dialogue" : "This matters not. Soon war will be upon...your soil... Heh heh..."
+        "dialogue" : "This matters not. <br>Soon war will be upon...your soil... Heh heh..."
     },
     {
         "character": "Lissa",
@@ -361,7 +361,7 @@ chapterDialogue = [
     },
     {
         "character": "Maribelle",
-        "dialogue" : "Wait. Am I really justifying myself to a commoner? Gods..."
+        "dialogue" : "Wait. Am I really justifying myself <br>to a commoner? Gods..."
     },
     {
         "character": "Maribelle",
@@ -369,31 +369,31 @@ chapterDialogue = [
     },
     {
         "character": "Maribelle",
-        "dialogue" : "And you have my thanks for your part in the rescue. There, I said it!"
+        "dialogue" : "And you have my thanks for your part <br>in the rescue. There, I said it!"
     },
     {
         "character": "Chrom",
-        "dialogue" : "Forgive me, Emm. I acted rashly."
+        "dialogue" : "Forgive me, Emm. <br>I acted rashly."
     },
     {
         "character": "Emmeryn",
-        "dialogue" : "It's all right, Chrom. King Gangrel is the one at fault here. You were only protecting me."
+        "dialogue" : "It's all right, Chrom. King Gangrel is the one <br>at fault here. You were only protecting me."
     },
     {
         "character": "Frederick",
-        "dialogue" : "The Mad King will be rallying his forces, if they have not mobilized already."
+        "dialogue" : "The Mad King will be rallying his forces, <br>if they have not mobilized already."
     },
     {
         "character": "Frederick",
-        "dialogue" : "I suggest we make haste back to Ylisstol and discuss our strategy."
+        "dialogue" : "I suggest we make haste back to Ylisstol <br>and discuss our strategy."
     },
     {
         "character": "Emmeryn",
-        "dialogue" : "Of course, Frederick. It seems war is upon us."
+        "dialogue" : "Of course, Frederick. <br>It seems war is upon us."
     },
     {
         "character": "Emmeryn",
-        "dialogue" : "We must protect the Ylissean people at all costs."
+        "dialogue" : "We must protect <br>the Ylissean people at all costs."
     },
 ];
 
