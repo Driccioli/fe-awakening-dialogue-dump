@@ -8,7 +8,7 @@ chapterDialogue = [
         "dialogue" : "Of course."
     },
     {
-        "character": "Robin",
+        "character": "<span class='avatar-name'>Robin</span>",
         "dialogue" : "The khan is away?"
     },
     {
@@ -20,11 +20,11 @@ chapterDialogue = [
         "dialogue" : "Or rather, battle IS their politics."
     },
     {
-        "character": "Robin",
+        "character": "<span class='avatar-name'>Robin</span>",
         "dialogue" : "A warrior ruler, eh? <br>I can picture him now..."
     },
     {
-        "character": "Robin",
+        "character": "<span class='avatar-name'>Robin</span>",
         "dialogue" : "A giant of a man of unparalleled thew, <br>his broad chest covered in hair, heheh..."
     },
     {
@@ -32,7 +32,7 @@ chapterDialogue = [
         "dialogue" : "Am I now? <br>...Please, do go on!"
     },
     {
-        "character": "Robin",
+        "character": "<span class='avatar-name'>Robin</span>",
         "dialogue" : "Huh?"
     },
     {
@@ -356,7 +356,7 @@ chapterDialogue = [
         "dialogue" : "He's so dark and mysterious... <br>*siiigh*"
     },
     {
-        "character": "Robin",
+        "character": "<span class='avatar-name'>Robin</span>",
         "dialogue" : "Sounds like Marth's got at least one fan..."
     },
     {
