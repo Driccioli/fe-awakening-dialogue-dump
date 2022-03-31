@@ -13,7 +13,7 @@ function funnyComment(currentAvatarName, avatarNameComment){
             break;
         }
         case "Reflet":{
-            avatarNameComment.innerHTML="I don't think it's correct, and yet...";
+            avatarNameComment.innerHTML="Sounds strangely familiar...";
             break;
         }
         case "Grima":{
@@ -33,7 +33,27 @@ function funnyComment(currentAvatarName, avatarNameComment){
             break;
         }
         case "Lissa":{
-            avatarNameComment.innerHTML="Sure, that sounds fun!";
+            avatarNameComment.innerHTML="Ooh! Imagine the pranks we could do together!";
+            break;
+        }
+        case "Sumia":{
+            avatarNameComment.innerHTML="Umm... sure?";
+            break;
+        }
+        case "Sully":{
+            avatarNameComment.innerHTML="HEY! Go and copy someone else!";
+            break;
+        }
+        case "Stahl":{
+            avatarNameComment.innerHTML="I don't really get it, but alright.";
+            break;
+        }
+        case "Virion":{
+            avatarNameComment.innerHTML="Ah, imitation IS the greatest form of flattery.";
+            break;
+        }
+        case "Miriel":{
+            avatarNameComment.innerHTML="Statistically speaking, this was bound to happen eventually.";
             break;
         }
         case "Vaike":{
@@ -42,6 +62,78 @@ function funnyComment(currentAvatarName, avatarNameComment){
         }
         case "Teach":{
             avatarNameComment.innerHTML="HEY! There can be only one Teach around here!";
+            break;
+        }
+        case "Kellam":{
+            avatarNameComment.innerHTML="You forgot I was here, didn't you?";
+            break;
+        }
+        case "Lon'qu":{
+            avatarNameComment.innerHTML="...No.";
+            break;
+        }
+        case "Ricken":{
+            avatarNameComment.innerHTML="So wait, do you look like me or do we just have the same name?";
+            break;
+        }
+        case "Maribelle":{
+            avatarNameComment.innerHTML="How astoundingly rude of you!";
+            break;
+        }
+        case "Gaius":{
+            avatarNameComment.innerHTML="Eh, go ahead, Bubbles. I don't really care.";
+            break;
+        }
+        case "Asugi":{
+            avatarNameComment.innerHTML="Really? You could at least TRY.";
+            break;
+        }
+        case "Cordelia":{
+            avatarNameComment.innerHTML="I'm not sure how to feel about this...";
+            break;
+        }
+        case "Caeldori":{
+            avatarNameComment.innerHTML="Please, don't treat me like a role model. ..I don't deserve it.";
+            break;
+        }
+        case "Gregor":{
+            avatarNameComment.innerHTML="...You, too?";
+            break;
+        }
+        case "Nowi":{
+            avatarNameComment.innerHTML="Ooh! Are you a dragon, too?";
+            break;
+        }
+        case "Libra":{
+            avatarNameComment.innerHTML="Clearly Lady Naga works in mysterious ways...";
+            break;
+        }
+        case "Tharja":{
+            avatarNameComment.innerHTML="Now, if you wanted me to notice you, you didn't need to do a thing...";
+            break;
+        }
+        case "Rhajat":{
+            avatarNameComment.innerHTML="Had it been anyone else, I'd have cursed them until death.";
+            break;
+        }
+        case "Basilio":{
+            avatarNameComment.innerHTML="Ha ha ha! Now, that's a new one!";
+            break;
+        }
+        case "Flavia":{
+            avatarNameComment.innerHTML="Oh, is that a challenge!?";
+            break;
+        }
+        case "Olivia":{
+            avatarNameComment.innerHTML="P-Please don't do that.";
+            break;
+        }
+        case "Cherche":{
+            avatarNameComment.innerHTML="I don't really mind.";
+            break;
+        }
+        case "Minerva":{
+            avatarNameComment.innerHTML="Oh, you're so cute!";
             break;
         }
         case "Marth":{
@@ -61,7 +153,7 @@ function funnyComment(currentAvatarName, avatarNameComment){
             break;
         }
         case "Severa":{
-            avatarNameComment.innerHTML="Name yourself ANYTHING else! Gawds!";
+            avatarNameComment.innerHTML="Name yourself ANYTHING else!";
             break;
         }
         case "Odin":{
@@ -76,8 +168,28 @@ function funnyComment(currentAvatarName, avatarNameComment){
             avatarNameComment.innerHTML="Huh. ..nice name, I guess?";
             break;
         }
+        case "Gangrel":{
+            avatarNameComment.innerHTML="If you want to sink that low, be my guest! Bwa ha!";
+            break;
+        }
+        case "Aversa":{
+            avatarNameComment.innerHTML="I don't know if I should feel flattered or insulted.";
+            break;
+        }
+        case "Walhart":{
+            avatarNameComment.innerHTML="You DARE mock me like this!?";
+            break;
+        }
+        case "Validar":{
+            avatarNameComment.innerHTML="Gya ha ha! Finally starting to accept your fate?";
+            break;
+        }
         case "Naga":{
             avatarNameComment.innerHTML="You cannot, Fellblood.";
+            break;
+        }
+        case "Emmeryn":{
+            avatarNameComment.innerHTML="...";
             break;
         }
         case "Anna":{
@@ -89,7 +201,7 @@ function funnyComment(currentAvatarName, avatarNameComment){
             break;
         }
         case "Kris":{
-            avatarNameComment.innerHTML="Sounds.. strangely familiar?";
+            avatarNameComment.innerHTML="Wasn't that the name of... someone?";
             break;
         }
         case "Corrin":{
@@ -123,7 +235,7 @@ function funnyComment(currentAvatarName, avatarNameComment){
             break;
         }
         case "Kaga":{
-            avatarNameComment.innerHTML="Do you believe God fears his own creation?";
+            avatarNameComment.innerHTML="Do you believe God hates his own creation?";
             break;
         }
         case "Dedede":{
@@ -144,7 +256,7 @@ function funnyComment(currentAvatarName, avatarNameComment){
             break;
         }
         default:{
-            avatarNameComment.innerHTML="";
+            avatarNameComment.innerHTML="This is your avatar.";
         }
     }
 }
