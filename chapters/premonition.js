@@ -29,7 +29,7 @@ let chapterDialogue = [
     },
     {
         "character": "Chrom",
-        "dialogue" : "Go ahead, Robin!"
+        "dialogue" : "Go ahead, <span class='avatar-name'>Robin</span>!"
     },
     {
         "character": "Validar",
@@ -45,7 +45,7 @@ let chapterDialogue = [
     },
     {
         "character": "Chrom",
-        "dialogue" : "Robin, I...I'm Sorry. Just..run while you can..."
+        "dialogue" : "<span class='avatar-name'>Robin</span>, I...I'm Sorry. <br>Just..run while you can..."
     },
     {
         "character": "Validar",
@@ -53,7 +53,7 @@ let chapterDialogue = [
     },
     {
         "character": "Chrom",
-        "dialogue" : "Robin! No! <br>This can't be how it ends!"
+        "dialogue" : "<span class='avatar-name'>Robin</span>! No! <br>This can't be how it ends!"
     },
     {
         "character": "Validar",

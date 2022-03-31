@@ -249,7 +249,7 @@ function getChapterScript(allChapters, currentChapter){
 function getBackground(currentChapter, background){
     switch(currentChapter.value){
         case "premonition":{
-            background.style.backgroundImage = "url('./img/premonition-bg.jpeg')";
+            background.style.backgroundImage = "url('./img/premonition-bg.png')";
             break;
         }
         case "prologue":{

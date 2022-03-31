@@ -9,10 +9,6 @@ chapterDialogue = [
   },
   {
     "character" : "Lissa",
-    "dialogue" : "Chrom, we have to do SOMETHING."
-  },
-  {
-    "character" : "Lissa",
     "dialogue" : "Uh... I don't know!..."
   },
   {
