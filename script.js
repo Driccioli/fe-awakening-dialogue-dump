@@ -218,7 +218,8 @@ function funnyComment(currentAvatarName, avatarNameComment){
         }
         case "Iturbide":
         case "Snow":
-        case "Rose":{
+        case "Rose":
+        case "Tipper":{
             avatarNameComment.innerHTML="<3";
             break;
         }
